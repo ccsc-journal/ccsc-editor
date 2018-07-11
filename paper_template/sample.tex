@@ -1,4 +1,4 @@
-\documentclass[letter,12pt]{article}
+\documentclass[10pt]{article}
 \usepackage[utf8]{inputenc}
 
 \usepackage[backend=bibtex,
@@ -8,6 +8,16 @@ bibencoding=ascii
 \usepackage{authblk}
 \usepackage{graphicx}
 \usepackage[bottom]{footmisc}
+\usepackage{listings}
+\usepackage{geometry}
+\usepackage{enumitem}
+
+\geometry{
+  paperheight=8.5in,
+  paperwidth=5.5in,
+  left=10mm,
+  top=20mm,
+}
 
 \addbibresource{sample.bib}
 
@@ -61,7 +71,41 @@ Provide a one paragraph brief overview of the paper in both the manuscript for r
 \subsection*{2 Citation}
 Appropriately cite all references to other published works included in the paper. \texttt{biblatex} is used to create a list of references or bibliography as the last section in the paper. Here are citation examples for a book\cite{latexcompanion}, a jouranl paper\cite{einstein}, a website\cite{knuthwebsite}, and a conference proceeding paper\cite{maurer}.
 
-\subsection*{3 Tables and Figures}
+\subsection*{3 Lists}
+Lists are easy to create in  \LaTeX\ whether they are ordered, unordered, or nested as shown in the following exmaple.
+
+\begin{itemize}[noitemsep]
+  \item The individual entries are indicated with a black dot, a so-called bullet.
+  \item The text in the entries may be of any length.
+\end{itemize}
+
+\begin{enumerate}[noitemsep]
+  \item The labels consists of sequential numbers.
+  \item The numbers starts at 1 with every call to the enumerate environment.
+\end{enumerate}
+
+\begin{enumerate}[noitemsep]
+   \item The labels consists of sequential numbers.
+   \begin{itemize}[noitemsep]
+     \item The individual entries are indicated with a black dot, a so-called bullet.
+     \item The text in the entries may be of any length.
+   \end{itemize}
+   \item The numbers starts at 1 with every call to the enumerate environment.
+\end{enumerate}
+
+\subsection*{4 Math Expressions}
+The mass-energy equivalence is described by the famous equation
+
+$$E=mc^2$$
+
+discovered in 1905 by Albert Einstein.
+In natural units ($c$ = 1), the formula expresses the identity
+
+\begin{equation}
+E=m
+\end{equation}
+
+\subsection*{5 Tables and Figures}
 Include all tables and figures within the body of the text. (Provide as separate files in the original format any figures so that if there are problems with the figures coming into the final manuscript there are alternatives available to the editors.)
 
 Here is an example Table \ref{table:nonlin}.
@@ -93,8 +137,29 @@ Here is an example Figure \ref{figure:universe}.
 \label{figure:universe}
 \end{figure}
 
-\subsection*{4 Reference List}
+\subsection*{7 Reference List}
 The \verb+\printbibliography+ command prints a list of referneces for you. Please use \texttt{sample.bib} as an example to create your bibliography entries.
+
+\subsection*{6 Code Listings}
+Commands from \texttt{listings} package allows you to display code easily and coloring and styling can be customized too. Here is an example.
+
+\begin{lstlisting}[language=Python,  caption=Python example]
+x = 42
+epsilon = 0.01
+step = epsilon**2
+num_guesses = 0
+ans = 0.0
+while abs(ans**2-x) > epsilon and ans < x:
+    ans = ans + step
+    num_guesses += 1
+if abs(ans**2-x) <= epsilon:
+    print(str(ans) +
+    ' is close to the square root of ' +
+    str(x))
+else:
+    print('Failed to find square root of ' + str(x))
+print("The number of guesses is " + str(num_guesses))
+\end{lstlisting}
 
 \section*{Additional Information}
 Please feel free to email \verb+ccsc-editors@googlegroups.com+ for questions.

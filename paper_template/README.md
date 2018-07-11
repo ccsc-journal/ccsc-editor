@@ -9,9 +9,11 @@ There are two ways to use this paper_template to format your paper.
 Here are a list of Latex references in ShareLatex:
  - https://www.sharelatex.com/learn/Learn_LaTeX_in_30_minutes
  - https://www.sharelatex.com/learn/Sections_and_chapters
+ - https://www.sharelatex.com/learn/Lists
  - https://www.sharelatex.com/learn/Tables
- - https://www.sharelatex.com/learn/Using_bibliographies_in_ShareLaTeX
  - https://www.sharelatex.com/learn/Including_images_in_ShareLaTeX
+ - https://www.sharelatex.com/learn/Code_listing
+ - https://www.sharelatex.com/learn/Using_bibliographies_in_ShareLaTeX
  - https://www.sharelatex.com/learn/Exporting_your_work_from_ShareLaTeX
 
 # Use your own Latex typesetting software
