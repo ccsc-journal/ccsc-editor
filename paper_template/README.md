@@ -1,7 +1,7 @@
 There are two ways to use this paper_template to format your paper.
 
 # Use ShareLatex
-1. Go to https://www.sharelatex.com/project and setup an account for free.
+1. Go to https://www.sharelatex.com and setup an account for free.
 2. Go to https://github.com/lubaochuan/ccsc-editor and download a zip file of the repository.
 3. Select "New Project" in ShareLatex, choose to "Upload Zipped Project" and upload the zip file you just downloaded.
 4. After the zip file is uploaded and expanded, you can edit the source files and click on "Recompile" to see the pdf version of your paper in the browser.
