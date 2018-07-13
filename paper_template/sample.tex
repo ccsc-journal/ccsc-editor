@@ -43,25 +43,25 @@ Excellent University \protect\\ Our Town, TX 00000}
 This document describes manuscript formatting requirements for CCSC conferences. Authors can use this document as a template to format their papers.
 \end{abstract}
 
-\section*{Length}
+\section{Length}
 Prepare the paper for written understanding with a length of approximately six (6) single-spaced pages including tables, figures, and a list of references or bibliography.
 
-\section*{Style}
+\section{Style}
 Write clearly and simply in the third person for an audience that is well-grounded in computing, but who may have limited exposure or knowledge about the specific topic of your paper. Define any technical terms deemed to require clarification when they are introduced.
 
-\section*{Title and Author Information}
+\section{Title and Author Information}
 Please follow the example in this paper to enter title and author information.
 
-\section*{Body of the Manuscript}
+\section{Body of the Manuscript}
 The text may be organized into sections and subsections. Please use \verb+\section+ and  \verb+\subsection+ commands to define them as shown in this paper. Latex will apply section formatting rules. If you opt to number your sections and subsections, do so specifically using Arabic numbers.
 
-\subsection*{1 Abstract}
+\subsection{1 Abstract}
 Provide a one-paragraph brief overview of the paper in both the manuscript for review and in the final manuscript for publication.
 
-\subsection*{2 Citation}
+\subsection{2 Citation}
 Appropriately cite all references to other published works included in the paper. \texttt{biblatex} is used to create a list of references or bibliography as the last section in the paper. Here are citation examples for a book\cite{latexcompanion}, a journal paper\cite{einstein}, a website\cite{knuthwebsite}, and a conference proceeding paper\cite{maurer}.
 
-\subsection*{3 Lists}
+\subsection{3 Lists}
 Lists are easy to create in  \LaTeX\ whether they are ordered, unordered, or nested as shown in the following example.
 
 \begin{itemize}[noitemsep]
@@ -83,7 +83,7 @@ Lists are easy to create in  \LaTeX\ whether they are ordered, unordered, or nes
    \item The numbers start at 1 with every call to the enumerate environment.
 \end{enumerate}
 
-\subsection*{4 Math Expressions}
+\subsection{4 Math Expressions}
 The mass-energy equivalence is described by the famous equation
 
 $$E=mc^2$$
@@ -95,7 +95,7 @@ In natural units ($c$ = 1), the formula expresses the identity
 E=m
 \end{equation}
 
-\subsection*{5 Tables and Figures}
+\subsection{5 Tables and Figures}
 Include all tables and figures within the body of the text. (Provide as separate files in the original format any figures so that if there are problems with the figures coming into the final manuscript there are alternatives available to the editors.)
 
 Here is an example Table \ref{table:nonlin}.
@@ -127,10 +127,10 @@ Here is an example Figure \ref{figure:universe}.
 \label{figure:universe}
 \end{figure}
 
-\subsection*{6 Reference List}
+\subsection{6 Reference List}
 The \verb+\printbibliography+ command prints a list of referneces for you. Please use \texttt{sample.bib} as an example to create your bibliography entries.
 
-\subsection*{7 Code Listings}
+\subsection{7 Code Listings}
 Commands from \texttt{listings} package allow you to display code easily with customizable coloring and styling rules. Here is an example.
 
 \begin{lstlisting}[language=Python,  caption=Python example]
@@ -151,7 +151,7 @@ else:
 print("The number of guesses is " + str(num_guesses))
 \end{lstlisting}
 
-\section*{Manuscript Submission}
+\section{Manuscript Submission}
 The following materials will need to be submitted:
 \begin{enumerate}[noitemsep]
   \item The final manuscript in Latex.
@@ -164,7 +164,7 @@ The following materials will need to be submitted:
   \item Electronic copies of any graphics in a standard format (bitmap, jpeg, tiff).
 \end{enumerate}
 
-\section*{Additional Information}
+\section{Additional Information}
 Please feel free to email \verb+ccsc-editors@googlegroups.com+ for questions. This document is modified from the CCSC manuscript formatting document\cite{meinke} created by John Meinke.
 
 \medskip
