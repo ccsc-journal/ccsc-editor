@@ -16,6 +16,7 @@ Here are a list of Latex references in ShareLatex:
  - https://www.sharelatex.com/learn/Code_listing
  - https://www.sharelatex.com/learn/Using_bibliographies_in_ShareLaTeX
  - https://www.sharelatex.com/learn/Exporting_your_work_from_ShareLaTeX
+ - video guides https://www.sharelatex.com/blog/latex-guides/beginners-tutorial/your-first-latex-document.html
 
 # Use your own Latex typesetting software
 1. Go to https://github.com/lubaochuan/ccsc-editor and download a zip file or clone the repository.

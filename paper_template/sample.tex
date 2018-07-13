@@ -1,4 +1,4 @@
-\documentclass[10pt]{article}
+\documentclass{ccsc_paper}
 \usepackage[utf8]{inputenc}
 
 \usepackage[backend=bibtex,
@@ -9,23 +9,13 @@ bibencoding=ascii
 \usepackage{graphicx}
 \usepackage[bottom]{footmisc}
 \usepackage{listings}
-\usepackage{geometry}
 \usepackage{enumitem}
-
-\geometry{
-  paperheight=8.5in,
-  paperwidth=5.5in,
-  left=10mm,
-  top=20mm,
-}
 
 \addbibresource{sample.bib}
 
 \title{Manuscript Formatting Instructions
 \footnote{
 Copyright \copyright 2018 by the Consortium for Computing Sciences in Colleges. Permission to copy without fee all or part of this material is granted provided that the copies are not made or distributed for direct commercial advantage, the CCSC copyright notice and the title of the publication and its date appear, and notice is given that copying is by permission of the Consortium for Computing Sciences in Colleges. To copy otherwise, or to republish, requires a fee and/or specific permission.}}
-%\date{}
-\date{\vspace{-7ex}}
 
 \author[1]{Baochuan Lu}
 \author[1]{Author A}
@@ -160,6 +150,19 @@ else:
     print('Failed to find square root of ' + str(x))
 print("The number of guesses is " + str(num_guesses))
 \end{lstlisting}
+
+\section*{Manuscript Submission}
+The following materials will need to be submitted:
+\begin{enumerate}[noitemsep]
+  \item The final manuscript in Latex.
+  \item Copyright release. It is essential that we receive the copyright release form. By signing this form you are acknowledging that the manuscript has not been printed in another venue, plus you are retaining your rights for use of the manuscript. Read the copyright release. The Consortium will not prohibit you from using the manuscript, but will ask that you credit any reuse to the Consortium as the original source of publication. If you misplace the copyright form, a generic copyright form can be found through the Copyright Release Form\cite{copyright}.\\
+  The Consortium encourages multiple presentations of tutorials and workshops. If you are presenting a tutorial or workshop you may retain the copyright, but we must have that documented. Keep in mind that your manuscript is limited to two pages total. However, you must still submit a copyright form.\\
+  Please note that it is critical that you obtain permission to use third party material. If you use diagrams and such that are attributable to a third party you must obtain formal permission to reprint such items, and must so indicate in the copyright release as well as submit such permission.
+  \item Registration for the conference, along with the appropriate registration fee. We have found that there are some folks in need of publication for promotion and tenure purposes, and then don’t want to present the paper. A major plus of the Consortium conferences is the presentation of the papers, and you must plan on attending. If you do not present the paper at the conference the paper will be removed from the ACM Digital Library.
+  \item A statement of any special presentation needs that you may have.
+  \item A pdf version of your manuscript is most helpful. If there are problems with special characters or special formatting this provides the editors with what you expected your final manuscript to look like. Providing a pdf version or a hard copy helps significantly in envisioning what the author expected the final product to look like.
+  \item Electronic copies of any graphics in a standard format (bitmap, jpeg, tiff).
+\end{enumerate}
 
 \section*{Additional Information}
 Please feel free to email \verb+ccsc-editors@googlegroups.com+ for questions. This document is modified from the CCSC manuscript formatting document\cite{meinke} created by John Meinke.
