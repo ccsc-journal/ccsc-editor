@@ -6,7 +6,7 @@ There are two ways to use this paper_template to format your paper.
 3. Select "New Project" in ShareLatex, choose to "Upload Zipped Project" and upload the zip file you just downloaded.
 4. After the zip file is uploaded and expanded, you can edit the source files and click on "Recompile" to see the pdf version of your paper in the browser.
 
-Here are a list of Latex references in ShareLatex:
+Here are a list of Latex references:
  - https://www.sharelatex.com/learn/Learn_LaTeX_in_30_minutes
  - https://www.sharelatex.com/learn/Sections_and_chapters
  - https://www.sharelatex.com/learn/Mathematical_expressions
@@ -17,6 +17,7 @@ Here are a list of Latex references in ShareLatex:
  - https://www.sharelatex.com/learn/Using_bibliographies_in_ShareLaTeX
  - https://www.sharelatex.com/learn/Exporting_your_work_from_ShareLaTeX
  - video guides https://www.sharelatex.com/blog/latex-guides/beginners-tutorial/your-first-latex-document.html
+ - wikibook on Latex https://en.wikibooks.org/wiki/LaTeX
 
 # Use your own Latex typesetting software
 1. Go to https://github.com/lubaochuan/ccsc-editor and download a zip file or clone the repository.
