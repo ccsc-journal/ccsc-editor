@@ -8,7 +8,7 @@ for CCSC conferences.
 - Posters
 - Panels
 
-There are two ways to use templates to format your work.
+There are two ways to use the templates to format your work.
 
 # Use Overleaf 2.0
 1. Go to https://v2.overleaf.com/ and setup an account for free.
