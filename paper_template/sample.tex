@@ -1,45 +1,35 @@
-\documentclass{ccsc_paper}
-\usepackage[utf8]{inputenc}
+\documentclass{article}
 
-\usepackage[backend=bibtex,
-style=numeric,
-bibencoding=ascii
-]{biblatex}
-\usepackage{authblk}
-\usepackage{graphicx}
-\usepackage[bottom]{footmisc}
-\usepackage{listings}
-\usepackage{enumitem}
+\input{preamble}
 
-\addbibresource{sample.bib}
+\title{Manuscript Formatting Instructions\footnote{\protect\input{copyright}}
+}
 
-\title{Manuscript Formatting Instructions
-\footnote{
-Copyright \copyright 2018 by the Consortium for Computing Sciences in Colleges. Permission to copy without fee all or part of this material is granted provided that the copies are not made or distributed for direct commercial advantage, the CCSC copyright notice and the title of the publication and its date appear, and notice is given that copying is by permission of the Consortium for Computing Sciences in Colleges. To copy otherwise, or to republish, requires a fee and/or specific permission.}}
+% Target typesetting:
+%
+%  Baochuan Lu, Author A, John Meinke, Author B
+%        Computer and Information Sciences
+%          Southwest Baptist University
+%               Bolivar, MO 65613
+%            {blu,author}@sbuniv.edu
+%          Computer Science Department
+%              Another University
+%              Our Town, TX 00000
+%           {jmeinke,author}@univ.edu
 
-\author[1]{Baochuan Lu}
-\author[1]{Author A}
-\author[2]{John Meinke}
-\author[2]{Author B}
-
-\affil[1]{\footnotesize
-Computer and Information Sciences \protect\\
-Southwest Baptist University \protect\\
-Bolivar, MO 65613}
-\affil[ ]{\textit {\{blu,auther\}@sbuniv.edu}}
-
-\affil[2]{\footnotesize
-Computer Science Department \protect\\
-Excellent University \protect\\ Our Town, TX 00000}
-\affil[ ]{\textit {\{email1,email2,email3,email4,email5\}@xyz.edu}}
-
-% if the paper has one author, please leave
-% \author[ ] and \affli[ ] with a single space
-% between the brackets.
+\author{
+Baochuan Lu\affmark[1], Author A\affmark[1], John Meinke\affmark[2], Author B\affmark[2]\\
+\affaddr{\affmark[1]Computer and Information Sciences}\\
+\affaddr{Southwest Baptist University}\\
+\affaddr{Bolivar, MO 65613}\\
+\email{\{blu,author\}@sbuniv.edu}\\
+\affaddr{\affmark[2]Computer Science Department}\\
+\affaddr{Another University}\\
+\affaddr{Our Town, TX 00000}\\
+\email{\{jmeinke,author\}@univ.edu}\\
+}
 
 \begin{document}
-
-
 \maketitle
 
 \begin{abstract}
@@ -58,13 +48,13 @@ Please follow the example in this paper to enter title and author information.
 \section{Body of the Manuscript}
 The text may be organized into sections and subsections. Please use \verb+\section+ and  \verb+\subsection+ commands to define them as shown in this paper. Latex will apply section formatting rules. If you opt to number your sections and subsections, do so specifically using Arabic numbers.
 
-\subsection{1 Abstract}
+\subsection{Abstract}
 Provide a one-paragraph brief overview of the paper in both the manuscript for review and in the final manuscript for publication.
 
-\subsection{2 Citation}
+\subsection{Citation}
 Appropriately cite all references to other published works included in the paper. \texttt{biblatex} is used to create a list of references or bibliography as the last section in the paper. Here are citation examples for a book\cite{latexcompanion}, a journal paper\cite{einstein}, a website\cite{knuthwebsite}, and a conference proceeding paper\cite{maurer}.
 
-\subsection{3 Lists}
+\subsection{Lists}
 Lists are easy to create in  \LaTeX\ whether they are ordered, unordered, or nested as shown in the following example.
 
 \begin{itemize}[noitemsep]
@@ -86,7 +76,7 @@ Lists are easy to create in  \LaTeX\ whether they are ordered, unordered, or nes
    \item The numbers start at 1 with every call to the enumerate environment.
 \end{enumerate}
 
-\subsection{4 Math Expressions}
+\subsection{Math Expressions}
 The mass-energy equivalence is described by the famous equation
 
 $$E=mc^2$$
@@ -98,7 +88,7 @@ In natural units ($c$ = 1), the formula expresses the identity
 E=m
 \end{equation}
 
-\subsection{5 Tables and Figures}
+\subsection{Tables and Figures}
 Include all tables and figures within the body of the text. (Provide as separate files in the original format any figures so that if there are problems with the figures coming into the final manuscript there are alternatives available to the editors.)
 
 Here is an example Table \ref{table:nonlin}.
@@ -130,10 +120,10 @@ Here is an example Figure \ref{figure:universe}.
 \label{figure:universe}
 \end{figure}
 
-\subsection{6 Reference List}
+\subsection{Reference List}
 The \verb+\printbibliography+ command prints a list of referneces for you. Please use \texttt{sample.bib} as an example to create your bibliography entries.
 
-\subsection{7 Code Listings}
+\subsection{Code Listings}
 Commands from \texttt{listings} package allow you to display code easily with customizable coloring and styling rules. Here is an example.
 
 \begin{lstlisting}[language=Python,  caption=Python example]
@@ -172,6 +162,7 @@ Please feel free to email \verb+ccsc-editors@googlegroups.com+ for questions. Th
 
 \medskip
 
-\printbibliography
+\bibliographystyle{acm}
+\bibliography{sample}
 
 \end{document}

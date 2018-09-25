@@ -1,0 +1,39 @@
+\usepackage[
+  paperheight=8.5in,
+  paperwidth=5.5in,
+  left=10mm,
+  right=10mm,
+  top=20mm,
+  bottom=20mm]{geometry}
+\usepackage[utf8]{inputenc}
+
+\usepackage{graphicx}
+\usepackage[bottom]{footmisc}
+\usepackage{listings}
+\usepackage{enumitem}
+
+\usepackage{wrapfig}
+\usepackage{ragged2e}
+
+
+\usepackage{amsmath}
+\usepackage{multicol}
+\usepackage{lipsum}
+\usepackage{hyphenat}
+\PassOptionsToPackage{hyphens}{url}
+\usepackage{url}
+
+\newcommand*{\affaddr}[1]{#1} % No op here. Customize it for different styles.
+\newcommand*{\affmark}[1][*]{\textsuperscript{#1}}
+\newcommand*{\email}[1]{\small{\texttt{#1}}}
+\newcommand{\tarot}{\textsc{Tarot}}
+\renewcommand*\contentsname{\centering Table of Contents}
+
+\renewcommand{\footnoterule}{%
+  \kern -3pt
+  \hrule width \textwidth height 0.5pt
+  \kern 2pt
+}
+
+% remove date
+\date{}
