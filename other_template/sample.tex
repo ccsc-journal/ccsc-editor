@@ -1,0 +1,52 @@
+\documentclass{article}
+
+\input{preamble}
+
+\title{A Title for a Tutorial, a Workshop, a Panel ...\footnote{\protect\input{copyright}}
+\\
+\vspace{0.2in}
+\large{
+Tutorial
+% Poster Session
+% Workshop
+% Panel
+}}
+
+
+% Target typesetting:
+%
+%  Baochuan Lu, Author A, John Meinke, Author B
+%        Computer and Information Sciences
+%          Southwest Baptist University
+%               Bolivar, MO 65613
+%            {blu,author}@sbuniv.edu
+%          Computer Science Department
+%              Another University
+%              Our Town, TX 00000
+%           {jmeinke,author}@univ.edu
+
+\author{
+Baochuan Lu\affmark[1], Author A\affmark[1], John Meinke\affmark[2], Author B\affmark[2]\\
+\affaddr{\affmark[1]Computer and Information Sciences}\\
+\affaddr{Southwest Baptist University}\\
+\affaddr{Bolivar, MO 65613}\\
+\email{\{blu,author\}@sbuniv.edu}\\
+\affaddr{\affmark[2]Computer Science Department}\\
+\affaddr{Another University}\\
+\affaddr{Our Town, TX 00000}\\
+\email{\{jmeinke,author\}@univ.edu}\\
+}
+
+
+\begin{document}
+
+\maketitle
+
+This is an example of a Tutorial abstract. The subtitle can be changed to ``Poster Session", ``Workshop", or ``Panel" for corresponding types. References must be added using Bibtex format as shown in ``sample.big". Here are citation examples for a book\cite{latexcompanion}, a journal paper\cite{einstein}, a website\cite{knuthwebsite}, and a conference proceeding paper\cite{maurer}.
+
+\lipsum[1-2]
+
+\bibliographystyle{plain}
+\bibliography{sample}
+
+\end{document}
