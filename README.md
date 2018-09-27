@@ -8,7 +8,7 @@ for CCSC conferences.
 - Posters
 - Panels
 
-There are two ways to use the templates to format your work.
+There are three ways to format your work.
 
 # Use Overleaf 2.0
 1. Go to https://v2.overleaf.com/ and setup an account for free.
@@ -32,6 +32,9 @@ Here are a list of Latex references:
 # Use your own Latex
 1. Go to https://github.com/lubaochuan/ccsc-editor and download a zip file or clone the repository.
 2. Open the source files with your software and compile them as usual.
+
+# Use MS Word
+Word docs are acceptable if you do not want to use Latex. Please format your work using the pdf samples as examples. Exact formatting is unnecessary because Word docs will be reformatted into Latex.
 
 # Contribute to this Project
 Your are welcome to fix errors or suggest additions by creating pull requests.
