@@ -11,6 +11,7 @@ Note that we have switched to use __Latex__ for journal publication.
 The instructions regarding to final manuscript formatting have changed.
 
 # CCSC Regional Editors
+
 | Region | Editor |
 |:-------|:-------|
 | Central Plains | Crystal Peng |
