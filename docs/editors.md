@@ -53,7 +53,7 @@ publishable items to the national editor; it can be as late as __one
 month__ before the conference date.
 
 # Work with Authors
-### Collect manuscript
+## Collect manuscript
 After the regional committee accepts papers (and other items) for the
 conference the following should happen:
 * All authors should be notified with the instructions on final manuscript

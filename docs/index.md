@@ -20,7 +20,7 @@ The Consortium for Computing Sciences in Colleges (CCSC) holds ten regional conf
 | Midsouth | Apr. 12-13 2019 | 34.8 |
 | Northeastern | Apr. 12-13 2019 | 34.9 |
 
-The current journal volume number is _34_.
+The current journal volume is _34_.
 
 The digital journal is available to all CCSC members. Individual papers and
 abstracts are also distributed in the [ACM digital library](https://dl.acm.org/pub.cfm?id=J420) and print journals can be purchased
