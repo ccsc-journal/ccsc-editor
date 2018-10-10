@@ -1,11 +1,13 @@
 ---
 layout: default
 ---
-Welcome! This site contains information about  final manuscript formatting (for authors) and the journal publication process (for regional editors).
+# Welcome!
+This site contains information about final manuscript formatting (for authors)
+and the journal publication process (for regional editors).
 
 The Consortium for Computing Sciences in Colleges (CCSC) holds ten regional conferences throughout the U.S. Proceedings from the conferences are published according to the following schedule.
 
-## Publication Schedule
+# Publication Schedule
 
 | Conference | Date | Journal Number |
 |:-------------|:------------------|:------|
@@ -20,7 +22,7 @@ The Consortium for Computing Sciences in Colleges (CCSC) holds ten regional conf
 | Midsouth | Apr. 12-13 2019 | 34.8 |
 | Northeastern | Apr. 12-13 2019 | 34.9 |
 
-## Journal Distribution
+# Journal Distribution
 
 The journals are distributed in following three channels:
 - CCSC members receive all digital journals in pdf format.

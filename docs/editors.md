@@ -3,14 +3,14 @@ layout: default
 title: "Editors"
 group: navigation
 ---
-
+# For Regional Editors
 If you are a regional editor, please join our [Google group](https://groups.google.com/forum/#!forum/ccsc-editors) for editing related
 discussions. You can also read past discussions.
 
 Note that we have switched to use __Latex__ for journal publication.
 The instructions regarding to final manuscript formatting have changed.
 
-# CCSC Regional Editors
+# Regional Editors Roster
 
 | Region | Editor |
 |:-------|:-------|

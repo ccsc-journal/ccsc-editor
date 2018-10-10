@@ -3,7 +3,7 @@ layout: default
 title: "Authors"
 group: navigation
 ---
-
+# For Authors
 Each regional conference’s call for papers has its own submission guidelines
 for submitting work for consideration. Usually a pdf file with the authors'
 information hidden is sufficient. You may choose to follow the final manuscript
