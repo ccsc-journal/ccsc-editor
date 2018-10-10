@@ -46,11 +46,18 @@ Here is a comprehensive list of publishable items for the journal:
 * panel abstracts
 * speech abstracts (keynote or banquet) with speaker bios
 
-# Import Dates
-* final manuscript due date for authors (__AUTHOR_DUE__)
-* __EDITOR_DUE__ is the deadline for regional editor to send all
-publishable items to the national editor; it can be as late as __one
-month__ before the conference date.
+# Important Dates
+
+There are two important dates for journal publication:
+- __EDITOR_DUE__ is the deadline for a regional editor to send all
+publishable items to the journal editor. It can be as late as __one
+month__ before the conference date. Please confirm this deadline date with the
+journal editor.
+- __AUTHOR_DUE__ is the deadline for authors to send their finished manuscript
+and copyright release form to the regional editor. Usually, a regional editor
+set this date with input from the conference committee. It is recommended that
+you set this date at least __one week__ before __EDITOR_DUE__ so that you have time
+interact with the authors to address issues in final manuscript submissions.
 
 # Work with Authors
 ## Collect manuscript

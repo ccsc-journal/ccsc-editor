@@ -6,24 +6,31 @@ group: navigation
 
 Each regional conference’s call for papers has its own submission guidelines
 for submitting work for consideration. Usually a pdf file with the authors'
-information hidden is sufficient.
+information hidden is sufficient. You may choose to follow the final manuscript
+formatting guidelines, but it is completely optional.
 
 # Final Manuscript
-Regarding final manuscript submission for publication in the Journal of
-Computing Sciences in Colleges we __strongly__ recommend that you use our
-[Latex templates](https://github.com/lubaochuan/ccsc-editor), which takes care
-of the formatting for you. It also makes our journal editor's job easier because
-the final journal editing and compilation is done in Latex.
+Once your work is accepted by the conference committee, you must prepare your
+work for publication by following this guideline. We __strongly__ recommend
+that you use our
+[Latex templates](https://github.com/lubaochuan/ccsc-editor), which formats
+your work using a predefined style. It also makes our journal editor's job
+easier because the final journal editing and compilation is done in Latex.
+
+The [Latex templates](https://github.com/lubaochuan/ccsc-editor) repository
+contains further instructions in README files. You can download the repository
+and choose the template you need. Each template has a sample pdf file showing
+what the formatted work looks like.
 
 If you do not want to use Latex we do accept final manuscripts in Word doc.
 Please format your work as much as you can according to the pdf example in the
-[templates](https://github.com/lubaochuan/ccsc-editor).
-Exact formatting is unnecessary because your work will be converted into Latex.
+[Latex templates](https://github.com/lubaochuan/ccsc-editor).
+Exact formatting is __unnecessary__ because your work will be converted to Latex.
 
 The following items need to be in your final manuscript submission:
 - final manuscript (paper or abstracts), which should include all Latex source files
 (.tex, .bib, and image files) or the Word doc file and the generated PDF file.
-- copyright release form (see instructions as follows)
+- copyright release form (see instructions below)
 
 # Copyright Release From
 You must submit a copyright release form in order for us to publish your work.
