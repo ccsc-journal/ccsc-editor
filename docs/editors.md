@@ -26,8 +26,8 @@ The instructions regarding to final manuscript formatting have changed.
 | Southwestern | Megan Thomas |
 
 A regional editor serves as a liaison between the regional conference committee
-and the national editor. Whoever works in this capacity are responsible for
-passing the following documents to the national editor before the deadline.
+and the journal editor. Whoever works in this capacity are responsible for
+passing the following documents to the journal editor before the deadline.
 * draft conference program
 * welcome statement from conference chair
 * regional board and conference committee rosters (or make sure the rosters are
@@ -65,7 +65,7 @@ conference the following should happen:
 * All authors should be notified with the instructions on final manuscript
 formatting, the link to the current copyright release form, and the method to
 submit the final manuscript to the regional editor.
-* The regional editor should share a list of accepted items with the national
+* The regional editor should share a list of accepted items with the journal
 editor to keep track of final submissions (here is
 [an example](https://docs.google.com/spreadsheets/d/1hxodui1yzcsJGt2iDZrRXYK9hmTV9hoQ3N2pl3OQFvA/edit?usp=sharing)).
 
@@ -81,7 +81,7 @@ For each publishable item the regional editor need to collect the following:
 We do accept final manuscript submissions in Word doc. In this case,
 the regional editor either needs to reformat the submissions in Latex using
 the [formatting instructions](https://github.com/lubaochuan/ccsc-editor) or
-forward the submission to the national editor AS IS.
+forward the submission to the journal editor AS IS.
 
 The regional editor need to check the copyright release forms are filled out
 correctly:
@@ -93,8 +93,8 @@ The regional editor is not supposed to edit the content of the manuscripts
 because easy typo should have been fixed and the authors should be responsible
 for the meaty part.
 
-# Work with the National Editor
+# Work with the Journal Editor
 The regional editor should send publishable items in their final
-format to the national editor as soon as they become available. The deadline
+format to the journal editor as soon as they become available. The deadline
 is __EDITOR_DUE__. If an item is received after __EDITOR_DUE__ date, the item
 is not guaranteed to appear in the journal.
