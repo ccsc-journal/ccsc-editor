@@ -50,9 +50,8 @@ Here is a comprehensive list of publishable items for the journal:
 
 There are two important dates for journal publication:
 - __EDITOR_DUE__ is the deadline for a regional editor to send all
-publishable items to the journal editor. It can be as late as __one
-month__ before the conference date. Please confirm this deadline date with the
-journal editor.
+publishable items to the journal editor. Please confirm this deadline date with
+the journal editor.
 - __AUTHOR_DUE__ is the deadline for authors to send their finished manuscript
 and copyright release form to the regional editor. Usually, a regional editor
 set this date with input from the conference committee. It is recommended that
@@ -67,16 +66,15 @@ conference the following should happen:
 formatting, the link to the current copyright release form, and the method to
 submit the final manuscript to the regional editor.
 * The regional editor should share a list of accepted items with the national
-editor to keep track of final submissions (here is [an example](https://docs.google.com/spreadsheets/d/1hxodui1yzcsJGt2iDZrRXYK9hmTV9hoQ3N2pl3OQFvA/edit?usp=sharing)).
+editor to keep track of final submissions (here is
+[an example](https://docs.google.com/spreadsheets/d/1hxodui1yzcsJGt2iDZrRXYK9hmTV9hoQ3N2pl3OQFvA/edit?usp=sharing)).
 
 By __AUTHOR_DUE__ date the regional editor must received all the publishable
-items, each of which should include:
-* final version in Latex and in PDF
-* a signed and dated copyright release form
+items.
 
 ## Check for errors
-For paper submission, the regional editor need to collect the following:
-- paper manuscript in Latex and PDF
+For each publishable item the regional editor need to collect the following:
+- final manuscript in Latex or in Word and the PDF showing the desired look
 - included figures/images in separate files
 - copyright release form
 
