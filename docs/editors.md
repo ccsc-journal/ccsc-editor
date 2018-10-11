@@ -17,7 +17,7 @@ The instructions regarding to final manuscript formatting have changed.
 | Central Plains | Crystal Peng |
 | Eastern | Steven Kreutzer |
 | Midsouth | David Naugler |
-| Midwest | Jeff Lehman |
+| Midwest | Saleh Alnaeli |
 | Northeastern | Mihaela Sabin |
 | Northwestern | Sharon Tuttle |
 | Rocky Mountain | Pam Smallwood |
