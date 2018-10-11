@@ -5,7 +5,7 @@ group: navigation
 ---
 # For Authors
 Each regional conference’s call for papers has its own submission guidelines
-for submitting work for consideration. Usually a pdf file with the authors'
+for submitting work for consideration. Usually a PDF file with the authors'
 information hidden is sufficient. You may choose to follow the final manuscript
 formatting guidelines, but it is completely optional.
 
@@ -23,20 +23,21 @@ and choose the template you need. Each template has a sample pdf file showing
 what the formatted work looks like.
 
 If you do not want to use Latex we do accept final manuscripts in Word doc.
-Please format your work as much as you can according to the pdf example in the
+Please format your work as much as you can according to the PDF example in the
 [Latex templates](https://github.com/lubaochuan/ccsc-editor).
 Exact formatting is __unnecessary__ because your work will be converted to Latex.
 
 The following items need to be in your final manuscript submission:
-- final manuscript (paper or abstracts), which should include all Latex source files
-(.tex, .bib, and image files) or the Word doc file and the generated PDF file.
+- final manuscript (paper or abstracts), which should include all Latex source
+files (.tex, .bib, and image files) or the Word doc (with image files) and the
+generated PDF files.
 - copyright release form (see instructions below)
 
 # Copyright Release From
 You must submit a copyright release form in order for us to publish your work.
 - please download a fillable pdf
 [copyright release form](https://drive.google.com/file/d/1SzmJkMTRi84isEoiTe0X1wwGZGeOWofo/view?usp=sharing).
-- open the pdf in __Acrobat reader__ and select your conference name
+- open the PDF in __Acrobat reader__ and select your conference name
 (e.g., CCSC Eastern Conference) and journal number (e.g. 34, 3 2019) via the
 dropdown menus.
 - sign the form digitally as shown in [this video](https://youtu.be/ZZLM9aDT_ak).

@@ -14,7 +14,7 @@ There are three ways to format your work.
 1. Go to https://v2.overleaf.com/ and setup an account for free.
 2. Go to https://github.com/lubaochuan/ccsc-editor and download [the zip file](https://github.com/lubaochuan/ccsc-editor/archive/master.zip) of the repository.
 3. Select "New Project" on Overleaf, choose to "Upload Zipped Project" and upload the zip file you just downloaded.
-4. After the zip file is uploaded and expanded, you can edit the source files and click on "Recompile" to see the pdf version of your work in the browser.
+4. After the zip file is uploaded and expanded, you can edit the source files and click on "Recompile" to see the PDF version of your work in the browser.
 
 Here are a list of Latex references:
  - https://www.sharelatex.com/learn/Learn_LaTeX_in_30_minutes
@@ -34,7 +34,7 @@ Here are a list of Latex references:
 2. Open the source files with your software and compile them as usual.
 
 # Use MS Word
-Word docs are acceptable if you do not want to use Latex. Please format your work using the pdf samples as examples. Exact formatting is unnecessary because Word docs will be reformatted into Latex.
+Word docs are acceptable if you do not want to use Latex. Please format your work using the PDF samples as examples. Exact formatting is unnecessary because Word docs will be reformatted into Latex.
 
 # Contribute to this Project
 Your are welcome to fix errors or suggest additions by creating pull requests.
