@@ -25,7 +25,12 @@ what the formatted work looks like.
 If you do not want to use Latex we do accept final manuscripts in Word doc.
 Please format your work as much as you can according to the PDF example in the
 [Latex templates](https://github.com/lubaochuan/ccsc-editor).
-Exact formatting is __unnecessary__ because your work will be converted to Latex.
+Exact formatting is __unnecessary__ because your work will be converted to Latex. Here is a list of sample publishable items:
+- [speech abstract](samples/speech_abstract.pdf)
+- [workshop abstract](samples/workshop_abstract.pdf)
+- [tutorial abstract](samples/tutorial_abstract.pdf)
+- [poster abstract](samples/poster_abstract.pdf)
+- [paper](samples/paper.pdf)
 
 The following items need to be in your final manuscript submission:
 - final manuscript (paper or abstracts), which should include all Latex source
