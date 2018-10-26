@@ -81,7 +81,12 @@ For each publishable item the regional editor need to collect the following:
 We do accept final manuscript submissions in Word doc. In this case,
 the regional editor either needs to reformat the submissions in Latex using
 the [formatting instructions](https://github.com/lubaochuan/ccsc-editor) or
-forward the submission to the journal editor AS IS.
+forward the submission to the journal editor AS IS. Here is a list of sample publishable items:
+- [speech abstract](samples/speech_abstract.pdf)
+- [workshop abstract](samples/workshop_abstract.pdf)
+- [tutorial abstract](samples/tutorial_abstract.pdf)
+- [poster abstract](samples/poster_abstract.pdf)
+- [paper](samples/paper.pdf)
 
 The regional editor need to check the copyright release forms are filled out
 correctly:
