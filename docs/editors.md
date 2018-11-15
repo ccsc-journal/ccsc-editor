@@ -81,7 +81,8 @@ For each publishable item the regional editor need to collect the following:
 We do accept final manuscript submissions in Word doc. In this case,
 the regional editor either needs to reformat the submissions in Latex using
 the [formatting instructions](https://github.com/lubaochuan/ccsc-editor) or
-forward the submission to the journal editor AS IS. Here is a list of sample publishable items:
+forward the submission to the journal editor AS IS. Here is a list of sample
+publishable items:
 - [speech abstract](samples/speech_abstract.pdf)
 - [workshop abstract](samples/workshop_abstract.pdf)
 - [tutorial abstract](samples/tutorial_abstract.pdf)
@@ -99,13 +100,13 @@ because easy typo should have been fixed and the authors should be responsible
 for the meaty part.
 
 # Work with the Journal Editor
-The regional editor should send publishable items in their final
+A regional editor should send publishable items in their final
 format to the journal editor as soon as they become available. The deadline
 is __EDITOR_DUE__. If an item is received after __EDITOR_DUE__ date, the item
 is not guaranteed to appear in the journal.
 
-For each publishable item the regional editor need to __email__ the journal editor
-a zip file with the following:
+For each publishable item the regional editor need to __email__ the journal
+editor a zip file with the following:
 - Latex source files for final manuscript or the Word doc
 - a PDF showing the desired look of the publishable item
 - included figures/images in separate files
