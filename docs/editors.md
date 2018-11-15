@@ -103,3 +103,10 @@ The regional editor should send publishable items in their final
 format to the journal editor as soon as they become available. The deadline
 is __EDITOR_DUE__. If an item is received after __EDITOR_DUE__ date, the item
 is not guaranteed to appear in the journal.
+
+For each publishable item the regional editor need to __email__ the journal editor
+a zip file with the following:
+- Latex source files for final manuscript or the Word doc
+- a PDF showing the desired look of the publishable item
+- included figures/images in separate files
+- copyright release form
