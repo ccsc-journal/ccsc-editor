@@ -41,7 +41,7 @@ generated PDF files.
 # Copyright Release From
 You must submit a copyright release form in order for us to publish your work.
 - please download a fillable pdf
-[copyright release form](https://drive.google.com/file/d/1SzmJkMTRi84isEoiTe0X1wwGZGeOWofo/view?usp=sharing).
+[copyright release form](copyright/CopyrightRelease_generic_fillable.pdf).
 - open the PDF in __Acrobat reader__ and select your conference name
 (e.g., CCSC Eastern Conference) and journal number (e.g. 34, 3 2019) via the
 dropdown menus.

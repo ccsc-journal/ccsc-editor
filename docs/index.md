@@ -17,10 +17,10 @@ The Consortium for Computing Sciences in Colleges (CCSC) holds ten regional conf
 | Southeastern | Nov. 2-3 2018 | 34.2 |
 | Eastern | Oct. 19-20 2018 | 34.3 |
 | Southwestern | Mar. 22-23 2019 | 34.4 |
-| Central Plains | Apr. 5-6 2019 | 34.5 |
-| South Central | Apr. 5 2019 | 34.6 |
-| Midsouth | Apr. 12-13 2019 | 34.7 |
-| Northeastern | Apr. 12-13 2019 | 34.8 |
+| Central Plains | Apr. 5-6 2019 | 34.4 |
+| South Central | Apr. 5 2019 | 34.5 |
+| Midsouth | Apr. 12-13 2019 | 34.5 |
+| Northeastern | Apr. 12-13 2019 | 34.6 |
 
 # Journal Distribution
 
