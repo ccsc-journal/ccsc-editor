@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-![logo](CCSC_logo.png width="100"){ width=50% }
-
 # Welcome!
 This site contains information about final manuscript formatting (for authors)
 and the journal publication process (for regional editors).
