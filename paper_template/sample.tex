@@ -33,29 +33,49 @@ Baochuan Lu\affmark[1], Author A\affmark[1], John Meinke\affmark[2], Author B\af
 \maketitle
 
 \begin{abstract}
-This document describes manuscript formatting requirements for CCSC conferences. Authors can use this document as a template to format their papers.
+This document describes manuscript formatting requirements for CCSC conferences.
+Authors can use this document as a template to format their papers.
 \end{abstract}
 
 \section{Length}
-Prepare the paper for written understanding with a length of approximately six (6) single-spaced pages including tables, figures, and a list of references or bibliography.
+Prepare the paper for written understanding with a length of at most ten
+(10) single-spaced pages including tables, figures, and a list of references or
+bibliography.
 
 \section{Style}
-Write clearly and simply in the third person for an audience that is well-grounded in computing, but who may have limited exposure or knowledge about the specific topic of your paper. Define any technical terms deemed to require clarification when they are introduced.
+Write clearly and simply in the third person for an audience that is
+well-grounded in computing, but who may have limited exposure or knowledge about
+the specific topic of your paper. Define any technical terms deemed to require
+clarification when they are introduced.
 
 \section{Title and Author Information}
 Please follow the example in this paper to enter title and author information.
 
 \section{Body of the Manuscript}
-The text may be organized into sections and subsections. Please use \verb+\section+ and  \verb+\subsection+ commands to define them as shown in this paper. Latex will apply section formatting rules. If you opt to number your sections and subsections, do so specifically using Arabic numbers.
+The text may be organized into sections and subsections. Please use
+\verb+\section+ and  \verb+\subsection+ commands to define them as shown in this
+paper. Latex will apply section formatting rules. If you opt to number your
+sections and subsections, do so specifically using Arabic numbers.
 
 \subsection{Abstract}
-Provide a one-paragraph brief overview of the paper in both the manuscript for review and in the final manuscript for publication.
+Provide a one-paragraph brief overview of the paper in both the manuscript for
+review and in the final manuscript for publication.
 
 \subsection{Citation}
-Appropriately cite all references to other published works included in the paper. \texttt{biblatex} is used to create a list of references or bibliography as the last section in the paper. Here are citation examples for a book\cite{latexcompanion}, a journal paper\cite{einstein}, a website\cite{knuthwebsite}, and a conference proceeding paper\cite{maurer}.
+Appropriately cite all references to other published works included in the paper.
+\texttt{biblatex} is used to create a list of references or bibliography as the
+last section in the paper. Here are citation examples for a
+book\cite{latexcompanion}, a journal paper\cite{einstein}, a
+website\cite{knuthwebsite}, and a conference proceeding paper\cite{maurer}.
+
+\subsection{Double Quote}
+The proper way to typeset double quote is to use two backticks or grave accents
+(\`{}) on the left and two single quotes (\'{}) on the right, e.g.
+\`{}\`{}Hello!\'{}\'{} for ``Hello!''.
 
 \subsection{Lists}
-Lists are easy to create in  \LaTeX\ whether they are ordered, unordered, or nested as shown in the following example.
+Lists are easy to create in  \LaTeX\ whether they are ordered, unordered, or
+nested as shown in the following example.
 
 \begin{itemize}[noitemsep]
   \item The individual entries are indicated with a black dot, a so-called bullet.
@@ -89,7 +109,9 @@ E=m
 \end{equation}
 
 \subsection{Tables and Figures}
-Include all tables and figures within the body of the text. (Provide as separate files in the original format any figures so that if there are problems with the figures coming into the final manuscript there are alternatives available to the editors.)
+Include all tables and figures within the body of the text. (Provide as separate
+files in the original format any figures so that if there are problems with the
+figures coming into the final manuscript there are alternatives available to the editors.)
 
 Here is an example Table \ref{table:nonlin}.
 
@@ -121,10 +143,12 @@ Here is an example Figure \ref{figure:universe}.
 \end{figure}
 
 \subsection{Reference List}
-The \verb+\printbibliography+ command prints a list of referneces for you. Please use \texttt{sample.bib} as an example to create your bibliography entries.
+The \verb+\printbibliography+ command prints a list of referneces for you.
+Please use \texttt{sample.bib} as an example to create your bibliography entries.
 
 \subsection{Code Listings}
-Commands from \texttt{listings} package allow you to display code easily with customizable coloring and styling rules. Here is an example.
+Commands from \texttt{listings} package allow you to display code easily with
+customizable coloring and styling rules. Here is an example.
 
 \begin{lstlisting}[language=Python,  caption=Python example]
 x = 42
@@ -148,17 +172,41 @@ print("The number of guesses is " + str(num_guesses))
 The following materials will need to be submitted:
 \begin{enumerate}[noitemsep]
   \item The final manuscript in Latex.
-  \item Copyright release. It is essential that we receive the copyright release form. By signing this form you are acknowledging that the manuscript has not been printed in another venue, plus you are retaining your rights for use of the manuscript. Read the copyright release. The Consortium will not prohibit you from using the manuscript, but will ask that you credit any reuse to the Consortium as the original source of publication. If you misplace the copyright form, a generic copyright form can be found through the Copyright Release Form\cite{copyright}.\\
-  The Consortium encourages multiple presentations of tutorials and workshops. If you are presenting a tutorial or workshop you may retain the copyright, but we must have that documented. Keep in mind that your manuscript is limited to two pages total. However, you must still submit a copyright form.\\
-  Please note that it is critical that you obtain permission to use third party material. If you use diagrams and such that are attributable to a third party you must obtain formal permission to reprint such items, and must so indicate in the copyright release as well as submit such permission.
-  \item Registration for the conference, along with the appropriate registration fee. We have found that there are some folks in need of publication for promotion and tenure purposes, and then don’t want to present the paper. A major plus of the Consortium conferences is the presentation of the papers, and you must plan on attending. If you do not present the paper at the conference the paper will be removed from the ACM Digital Library.
+  \item Copyright release. It is essential that we receive the copyright
+  release form. By signing this form you are acknowledging that the manuscript
+  has not been printed in another venue, plus you are retaining your rights for
+  use of the manuscript. Read the copyright release. The Consortium will not
+  prohibit you from using the manuscript, but will ask that you credit any reuse
+  to the Consortium as the original source of publication. If you misplace the
+  copyright form, a generic copyright form can be found through the Copyright
+  Release Form\cite{copyright}.\\
+  The Consortium encourages multiple presentations of tutorials and workshops.
+  If you are presenting a tutorial or workshop you may retain the copyright,
+  but we must have that documented. Keep in mind that your manuscript is limited
+  to two pages total. However, you must still submit a copyright form.\\
+  Please note that it is critical that you obtain permission to use third party
+  material. If you use diagrams and such that are attributable to a third party
+  you must obtain formal permission to reprint such items, and must so indicate
+  in the copyright release as well as submit such permission.
+  \item Registration for the conference, along with the appropriate registration
+  fee. We have found that there are some folks in need of publication for
+  promotion and tenure purposes, and then don’t want to present the paper.
+  A major plus of the Consortium conferences is the presentation of the papers,
+  and you must plan on attending. If you do not present the paper at the
+  conference the paper will be removed from the ACM Digital Library.
   \item A statement of any special presentation needs that you may have.
-  \item A pdf version of your manuscript is most helpful. If there are problems with special characters or special formatting this provides the editors with what you expected your final manuscript to look like. Providing a pdf version or a hard copy helps significantly in envisioning what the author expected the final product to look like.
+  \item A pdf version of your manuscript is most helpful. If there are problems
+  with special characters or special formatting this provides the editors with
+  what you expected your final manuscript to look like. Providing a pdf version
+  or a hard copy helps significantly in envisioning what the author expected
+  the final product to look like.
   \item Electronic copies of any graphics in a standard format (bitmap, jpeg, tiff).
 \end{enumerate}
 
 \section{Additional Information}
-Please feel free to email \verb+ccsc-editors@googlegroups.com+ for questions. This document is modified from the CCSC manuscript formatting document\cite{meinke} created by John Meinke.
+Please feel free to email \verb+ccsc-editors@googlegroups.com+ for questions.
+This document is modified from the CCSC manuscript formatting
+document\cite{meinke} created by John Meinke.
 
 \medskip
 
