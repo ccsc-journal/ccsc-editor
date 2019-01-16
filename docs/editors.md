@@ -32,7 +32,7 @@ passing the following documents to the journal editor before the deadline.
 * welcome statement from conference chair
 * regional board and conference committee rosters (or make sure the rosters are
 up to date on [CCSC website ](http://www.ccsc.org/regions/) or conference website)
-* reviewer list
+* reviewer list ([example](samples/reviewers.txt))
 * final manuscript for all publishable items along with the copyright
 release form
 
