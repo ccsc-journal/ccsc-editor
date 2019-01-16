@@ -19,13 +19,13 @@
 
 \author{
 Baochuan Lu\affmark[1], Author A\affmark[1], John Meinke\affmark[2], Author B\affmark[2]\\
-\affaddr{\affmark[1]Computer and Information Sciences}\\
-\affaddr{Southwest Baptist University}\\
-\affaddr{Bolivar, MO 65613}\\
+\affmark[1]Computer and Information Sciences\\
+Southwest Baptist University\\
+Bolivar, MO 65613\\
 \email{\{blu,author\}@sbuniv.edu}\\
-\affaddr{\affmark[2]Computer Science Department}\\
-\affaddr{Another University}\\
-\affaddr{Our Town, TX 00000}\\
+\affmark[2]Computer Science Department\\
+Another University\\
+Our Town, TX 00000\\
 \email{\{jmeinke,author\}@univ.edu}\\
 }
 
@@ -50,6 +50,8 @@ clarification when they are introduced.
 
 \section{Title and Author Information}
 Please follow the example in this paper to enter title and author information.
+The title should use title-casing and you can use this tool to double check:
+\texttt{https://titlecaseconverter.com}
 
 \section{Body of the Manuscript}
 The text may be organized into sections and subsections. Please use
@@ -141,6 +143,25 @@ Here is an example Figure \ref{figure:universe}.
 \caption{The Universe}
 \label{figure:universe}
 \end{figure}
+
+The trim size of the journal is half-letter size, so please be aware that your
+tables or figures may be hard to read if the fonts are too small as shown in
+this Figure \ref{figure:big_table}.
+\begin{figure}[h!]
+\centering
+\includegraphics[width=\textwidth]{big_table.png}
+\caption{Fonts are too small.}
+\label{figure:big_table}
+\end{figure}
+
+In this case, you can either divide the table into multiple parts, or use the
+following code to put the table/figure sideways on its own page as shown in
+Figure \ref{figure:big_table1}.
+\begin{sidewaysfigure}[H]
+  \includegraphics[width=\textwidth]{big_table.png}
+  \caption{A big table turned sideways on its own page.}
+  \label{figure:big_table1}
+\end{sidewaysfigure}
 
 \subsection{Reference List}
 The \verb+\printbibliography+ command prints a list of referneces for you.
