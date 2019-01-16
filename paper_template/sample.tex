@@ -135,15 +135,6 @@ Case & Method\#1 & Method\#2 & Method\#3 \\ [0.5ex] % inserts table
 \end{tabular}
 \end{table}
 
-Here is an example Figure \ref{figure:universe}.
-
-\begin{figure}[h!]
-\centering
-\includegraphics[scale=1.7]{universe}
-\caption{The Universe}
-\label{figure:universe}
-\end{figure}
-
 The trim size of the journal is half-letter size, so please be aware that your
 tables or figures may be hard to read if the fonts are too small as shown in
 this Figure \ref{figure:big_table}.
@@ -154,17 +145,35 @@ this Figure \ref{figure:big_table}.
 \label{figure:big_table}
 \end{figure}
 
-In this case, you can either divide the table into multiple parts, or use the
-following code to put the table/figure sideways on its own page as shown in
-Figure \ref{figure:big_table1}.
+In this case, you can either divide the table into multiple parts, or put the
+table/figure sideways on its own page as shown in Figure \ref{figure:big_table1}.
 \begin{sidewaysfigure}[H]
   \includegraphics[width=\textwidth]{big_table.png}
   \caption{A big table turned sideways on its own page.}
   \label{figure:big_table1}
 \end{sidewaysfigure}
 
+The code for inserting figures sideways is as follows:
+
+\vbox{
+\begin{lstlisting}[language=TeX, basicstyle=\footnotesize,
+caption=Code to Insert Figures Sideways]
+\begin{sidewaysfigure}[H]
+  \includegraphics[width=\textwidth]{big_table.png}
+  \caption{A big table turned sideways on its own page.}
+  \label{figure:big_table1}
+\end{sidewaysfigure}
+\end{lstlisting}
+}
+Here is a live example: \texttt{https://www.overleaf.com/read/fzcmnctdppgz}
+
+\subsection{Use of Color}
+Even though our digital journal is in color, our print journal is in black and white.
+You may choose to use other colors in your paper, but please be aware that the colors
+you choose may not be distinguishable after they are turned into gray-scale.
+
 \subsection{Reference List}
-The \verb+\printbibliography+ command prints a list of referneces for you.
+The \verb+\printbibliography+ command prints a list of references for you.
 Please use \texttt{sample.bib} as an example to create your bibliography entries.
 
 \subsection{Code Listings}
