@@ -5,7 +5,13 @@ layout: default
 This site contains information about final manuscript formatting (for authors)
 and the journal publication process (for regional editors).
 
-The Consortium for Computing Sciences in Colleges (CCSC) holds ten regional conferences throughout the U.S. Proceedings from the conferences are published according to the following schedule.
+The Consortium for Computing Sciences in Colleges (CCSC) holds ten regional
+conferences throughout the U.S. Please check out CCSC's
+[conference calendar](http://www.ccsc.org/regions/calendar/)
+for detailed conference Information.
+
+Proceedings from the conferences are published in "The Journal of Computing
+Sciences in Colleges" according to the following schedule.
 
 # Publication Schedule
 
