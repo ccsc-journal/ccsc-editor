@@ -28,26 +28,21 @@ The instructions regarding to final manuscript formatting have changed.
 A regional editor serves as a liaison between the regional conference committee
 and the journal editor. Whoever works in this capacity are responsible for
 passing the following documents to the journal editor before the deadline.
-* draft conference program
-* welcome statement from conference chair
+
+# Publishable Items
+* welcome statement from conference chair ([example](samples/welcome.pdf))
 * regional board and conference committee rosters (or make sure the rosters are
 up to date on [CCSC website ](http://www.ccsc.org/regions/) or conference website)
 * reviewer list ([example](samples/reviewers.txt))
-* final manuscript for all publishable items along with the copyright
-release form
-
-# Publishable Items
-Here is a comprehensive list of publishable items for the journal:
-* papers
-* nifty assignments
-* workshop abstracts
-* tutorial abstracts
-* poster abstracts
-* panel abstracts
-* speech abstracts (keynote or banquet) with speaker bios
+* papers ([example](samples/paper.pdf))
+* nifty assignments ([example](samples/nifty.pdf))
+* abstracts ([workshops](samples/workshop_abstract.pdf),
+  [tutorials](samples/tutorial_abstract.pdf),
+  [posters](samples/poster_abstract.pdf), ([panels](samples/panel.pdf)), ...)
+* speaker bios and speech abstracts (keynote or banquet,
+  [example](samples/speech_abstract.pdf))
 
 # Important Dates
-
 There are two important dates for journal publication:
 - __EDITOR_DUE__ is the deadline for a regional editor to send all
 publishable items to the journal editor. Please confirm this deadline date with
@@ -81,13 +76,7 @@ For each publishable item the regional editor need to collect the following:
 We do accept final manuscript submissions in Word doc. In this case,
 the regional editor either needs to reformat the submissions in Latex using
 the [formatting instructions](https://github.com/lubaochuan/ccsc-editor) or
-forward the submission to the journal editor AS IS. Here is a list of sample
-publishable items:
-- [speech abstract](samples/speech_abstract.pdf)
-- [workshop abstract](samples/workshop_abstract.pdf)
-- [tutorial abstract](samples/tutorial_abstract.pdf)
-- [poster abstract](samples/poster_abstract.pdf)
-- [paper](samples/paper.pdf)
+forward the submission to the journal editor AS IS.
 
 The regional editor need to check the copyright release forms are filled out
 correctly:
