@@ -13,8 +13,8 @@ There are three ways to format your work.
 # Use Overleaf 2.0
 1. Go to https://v2.overleaf.com/ and setup an account for free.
 2. Go to https://github.com/lubaochuan/ccsc-editor
-    * download [paper_template.zip](https://github.com/lubaochuan/ccsc-editor/paper_template.zip) for papers.
-    * download [other_template.zip](https://github.com/lubaochuan/ccsc-editor/other_template.zip) for other publication types (abstracts).
+    * download [paper_template.zip](https://github.com/lubaochuan/ccsc-editor/blob/master/paper_template.zip) for papers.
+    * download [other_template.zip](https://github.com/lubaochuan/ccsc-editor/blob/master/other_template.zip) for other publication types (abstracts).
 3. Select "New Project" on Overleaf, choose to "Upload Zipped Project" and upload the zip file you just downloaded.
 4. After the zip file is uploaded and expanded, you can edit the source files and click on "Recompile" to see the PDF version of your work in the browser.
 
