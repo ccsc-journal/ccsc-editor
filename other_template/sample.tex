@@ -2,7 +2,7 @@
 
 \input{preamble}
 
-\title{A Title for a Tutorial, a Workshop, a Panel ...\footnote{\protect\input{copyleft}}
+\title{Abstract Template\footnote{\protect\input{copyleft}}
 \\
 \vspace{0.2in}
 \large{
@@ -34,7 +34,7 @@ Bolivar, MO 65613\\
 \affmark[2]Computer Science Department\\
 Another University\\
 Our Town, TX 00000\\
-\email{\{jmeinke,author\}@univ.edu}\\
+\email{\{jmeinke,author\}@univ.edu}
 }
 
 
@@ -42,7 +42,56 @@ Our Town, TX 00000\\
 
 \maketitle
 
-This is an example of a Tutorial abstract. The subtitle can be changed to ``Poster Session", ``Workshop", or ``Panel" for corresponding types. References must be added using Bibtex format as shown in ``sample.big". Here are citation examples for a book\cite{latexcompanion}, a journal paper\cite{einstein}, a website\cite{knuthwebsite}, and a conference proceeding paper\cite{maurer}.
+This is an example of a Tutorial abstract. The subtitle can be changed to ``Poster Session", ``Workshop", or ``Panel" for corresponding types. References must be added using Bibtex format as shown in ``sample.bib". Here are citation examples for a book\cite{latexcompanion}, a journal paper\cite{einstein}, a website\cite{knuthwebsite}, and a conference proceeding paper\cite{maurer}.
+
+Use the following code in the ``author block'' if there is one author:
+
+\lstset
+{
+    language=[LaTeX]TeX,
+    breaklines=true,
+    basicstyle=\tt\scriptsize,
+    keywordstyle=\color{blue},
+    identifierstyle=\color{magenta},
+}
+
+\begin{lstlisting}
+  \author{
+    John Meinke\\
+    Computer Science Department\\
+    Another University\\
+    Our Town, TX 00000\\
+    \email{jmeinke@univ.edu}
+  }
+\end{lstlisting}
+
+Use the following code in the ``author block'' if there are multiple authors from different department of the same institute:
+
+\begin{lstlisting}
+  \author{
+    Baochuan Lu\affmark[1], John Meinke\affmark[2]\\
+    \affmark[1]Computer and Information Sciences\\
+    \affmark[2]Physics Department\\
+    Another University\\
+    Our Town, TX 00000\\
+    \email{\{blu,jmeinke\}@univ.edu}
+  }
+\end{lstlisting}
+
+Use the following code in the ``author block'' if there are multiple authors from different institutes:
+\begin{lstlisting}
+  \author{
+    Baochuan Lu\affmark[1], Author A\affmark[1], John Meinke\affmark[2], Author B\affmark[2]\\
+    \affmark[1]Computer and Information Sciences\\
+    Southwest Baptist University\\
+    Bolivar, MO 65613\\
+    \email{\{blu,author\}@sbuniv.edu}\\
+    \affmark[2]Computer Science Department\\
+    Another University\\
+    Our Town, TX 00000\\
+    \email{\{jmeinke,author\}@univ.edu}
+  }
+\end{lstlisting}
 
 \lipsum[1-2]
 

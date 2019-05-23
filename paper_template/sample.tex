@@ -2,7 +2,7 @@
 
 \input{preamble}
 
-\title{Manuscript Formatting Instructions\footnote{\protect\input{copyright}}
+\title{Paper Template\footnote{\protect\input{copyright}}
 }
 
 % Target typesetting:
@@ -34,7 +34,7 @@ Our Town, TX 00000\\
 
 \begin{abstract}
 This document describes manuscript formatting requirements for CCSC conferences.
-Authors can use this document as a template to format their papers.
+Authors can also use this document as a template to format their papers.
 \end{abstract}
 
 \section{Length}
@@ -52,6 +52,55 @@ clarification when they are introduced.
 Please follow the example in this paper to enter title and author information.
 The title should use title-casing and you can use this tool to double check:
 \texttt{https://titlecaseconverter.com}
+
+Use the following code in the ``author block'' if there is one author:
+
+\lstset
+{
+    language=[LaTeX]TeX,
+    breaklines=true,
+    basicstyle=\tt\scriptsize,
+    keywordstyle=\color{blue},
+    identifierstyle=\color{magenta},
+}
+
+\begin{lstlisting}
+  \author{
+    John Meinke\\
+    Computer Science Department\\
+    Another University\\
+    Our Town, TX 00000\\
+    \email{jmeinke@univ.edu}
+  }
+\end{lstlisting}
+
+Use the following code in the ``author block'' if there are multiple authors from different department of the same institute:
+
+\begin{lstlisting}
+  \author{
+    Baochuan Lu\affmark[1], John Meinke\affmark[2]\\
+    \affmark[1]Computer and Information Sciences\\
+    \affmark[2]Physics Department\\
+    Another University\\
+    Our Town, TX 00000\\
+    \email{\{blu,jmeinke\}@univ.edu}
+  }
+\end{lstlisting}
+
+Use the following code in the ``author block'' if there are multiple authors from different institutes:
+\begin{lstlisting}
+  \author{
+    Baochuan Lu\affmark[1], Author A\affmark[1], John Meinke\affmark[2], Author B\affmark[2]\\
+    \affmark[1]Computer and Information Sciences\\
+    Southwest Baptist University\\
+    Bolivar, MO 65613\\
+    \email{\{blu,author\}@sbuniv.edu}\\
+    \affmark[2]Computer Science Department\\
+    Another University\\
+    Our Town, TX 00000\\
+    \email{\{jmeinke,author\}@univ.edu}
+  }
+\end{lstlisting}
 
 \section{Body of the Manuscript}
 The text may be organized into sections and subsections. Please use

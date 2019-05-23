@@ -2,11 +2,11 @@
 This repository contains information on how to format various publishable items
 for CCSC conferences.
 
-- Technical Papers
-- Tutorials
-- Workshops
-- Posters
-- Panels
+- Technical Paper
+- Tutorial Abstract
+- Workshop Abstract
+- Poster Abstract
+- Panel Abstract
 
 There are three ways to format your work.
 
@@ -15,7 +15,7 @@ There are three ways to format your work.
 2. Go to https://github.com/lubaochuan/ccsc-editor
     * download [paper_template.zip](https://github.com/lubaochuan/ccsc-editor/blob/master/paper_template.zip) for papers.
     * download [other_template.zip](https://github.com/lubaochuan/ccsc-editor/blob/master/other_template.zip) for other publication types (abstracts).
-3. Select "New Project" on Overleaf, choose to "Upload Zipped Project" and upload the zip file you just downloaded.
+3. Select "New Project" on Overleaf, choose to "Upload Project" and upload the zip file you just downloaded.
 4. After the zip file is uploaded and expanded, you can edit the source files and click on "Recompile" to see the PDF version of your work in the browser.
 
 Here is a demo video for setting up a project on overleaf.
@@ -38,7 +38,7 @@ Here are a list of Latex references:
 2. Open the source files with your software and compile them as usual.
 
 # Use MS Word
-Word docs are acceptable if you do not want to use Latex. Please format your work using the PDF samples as examples. Exact formatting is unnecessary because Word docs will be reformatted into Latex.
+Word docs are acceptable if you do not want to use Latex. Please format your work using the PDF samples as examples ([paper](https://github.com/lubaochuan/ccsc-editor/blob/master/paper_template/sample.pdf), [abstract](https://github.com/lubaochuan/ccsc-editor/blob/master/other_template/sample.pdf)). Exact formatting is unnecessary because Word docs will be reformatted into Latex.
 
 # Contribute to this Project
 Your are welcome to fix errors or suggest additions by creating pull requests.
