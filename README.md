@@ -19,13 +19,13 @@ There are three ways to format your work.
 3. Select "New Project" on Overleaf, choose to "Upload Project" and upload the zip file you just downloaded.
 4. After the zip file is uploaded and expanded, you can edit the source files and click on "Recompile" to see the PDF version of your work in the browser.
 
-5. Watch this [demo video]() on how to create a project on overleaf with a .zip file.
+5. Watch this [demo video](https://youtu.be/VYTnWlYFre8) on how to create a project on overleaf with a .zip file.
 
 Another way to use Overleaf is to click on the following shared Overleaf projects and make a copy of your own.
 
-* click [template project for papers](https://www.overleaf.com/read/nhkychfsbwrp) and make a copy.
-* click [template project for other publication types](https://www.overleaf.com/read/vpczmdzyzhsv) and make a copy.
-* watch this [demo video]() on how to copy a shared project on overleaf.
+* click [template project for papers](https://www.overleaf.com/read/nhkychfsbwrp)(shared Overleaf project) and make a copy.
+* click [template project for other publication types](https://www.overleaf.com/read/vpczmdzyzhsv)(shared Overleaf project) and make a copy.
+* watch this [demo video](https://youtu.be/9IouPnPpCuQ) on how to copy a shared project on overleaf.
 
 Here are a list of Latex references:
  - https://www.sharelatex.com/learn/Learn_LaTeX_in_30_minutes
