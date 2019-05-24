@@ -26,6 +26,11 @@ Sciences in Colleges" according to the following schedule.
 | South Central | Apr. 5 2019 | 34.5 [[digital](http://www.ccsc.org/publications/journals/SC2019.pdf)] [[print](https://www.amazon.com/dp/1797971174)] |
 | Northeastern | Apr. 12-13 2019 | 34.6 [[digital](http://www.ccsc.org/publications/journals/NE2019.pdf)] [[print](https://www.amazon.com/dp/1092514686)] |
 | Midsouth | Apr. 12-13 2019 | 34.7 [[digital](http://www.ccsc.org/publications/journals/MS2019.pdf)] [[print](https://www.amazon.com/dp/109260281X)] |
+| Midwestern | Oct. 4-5 2019 | |
+| Northwestern | Oct. 4-5 2019 | |
+| Rocky Mountain | Oct. 11-12 2019 | |
+| Eastern | Oct. 25-26 2019 | |
+| Southeastern | Oct. 25-26 2019 | |
 
 # Journal Distribution
 
