@@ -5,7 +5,8 @@ group: navigation
 ---
 # Past Conferences
 
-# 2018 - 2019
+## 2018 - 2019
+
 | Conference | Date | Journal Issue |
 |:-------------|:------------------|:------|
 | Midwestern | Sept. 28-29 2018 | 34.1 |

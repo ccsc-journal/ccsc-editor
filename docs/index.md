@@ -15,6 +15,7 @@ Sciences in Colleges" according to the following schedule.
 
 # Publication Schedule
 ## 2019 - 2020
+
 | Conference | Date | Journal Issue |
 |:-------------|:------------------|:------|
 | Midwestern <br> Northwestern | Oct. 4-5 2019 <br> Oct. 4-5 2019 | 35.1 |
@@ -27,6 +28,7 @@ Sciences in Colleges" according to the following schedule.
 | Midsouth | | |
 
 ## 2018 - 2019
+
 | Conference | Date | Journal Issue |
 |:-------------|:------------------|:------|
 | Midwestern | Sept. 28-29 2018 | 34.1 |
