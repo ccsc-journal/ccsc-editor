@@ -22,7 +22,7 @@ The instructions regarding to final manuscript formatting have changed.
 | Northwestern | Sharon Tuttle |
 | Rocky Mountain | Pam Smallwood |
 | South Central | Laura Baker |
-| Southeastern | Stephen Carl & Hala ElAarag |
+| Southeastern | John Hunt |
 | Southwestern | Megan Thomas |
 
 A regional editor serves as a liaison between the regional conference committee
