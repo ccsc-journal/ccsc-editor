@@ -30,7 +30,7 @@ and the journal editor. Whoever works in this capacity are responsible for
 passing the following documents to the journal editor before the deadline.
 
 # Publishable Items
-* welcome statement from conference chair ([example](samples/welcome.pdf))
+* welcome statement from conference chair ([example](samples/welcome.pdf), [latex source](samples/welcome.tex))
 * regional board and conference committee rosters (or make sure the rosters are
 up to date on [CCSC website ](http://www.ccsc.org/regions/) or conference website)
 * reviewer list ([example](samples/reviewers.txt))
