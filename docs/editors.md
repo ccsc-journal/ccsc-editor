@@ -31,7 +31,7 @@ passing the following documents to the journal editor before the deadline.
 
 # Publishable Items
 * welcome statement from conference chair ([example](samples/welcome.pdf), [latex source](samples/welcome.tex))
-* regional board and conference committee rosters (or make sure the rosters are
+* regional board and conference committee rosters ([example](samples/committees.txt)) (and make sure the rosters are
 up to date on [CCSC website ](http://www.ccsc.org/regions/) or conference website)
 * reviewer list ([example](samples/reviewers.txt))
 * papers ([example](samples/paper.pdf))
