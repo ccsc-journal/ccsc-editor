@@ -18,7 +18,8 @@ Sciences in Colleges" according to the following schedule.
 
 | Conference | Date | Journal Issue |
 |:-------------|:------------------|:------|
-| Midwestern <br> Northwestern | Oct. 4-5 2019 <br> Oct. 4-5 2019 | 35.1 |
+| Northwestern | Oct. 4-5 2019 | 35.1 |
+| Midwestern | Oct. 4-5 2019 | 35.5 |
 | Rocky Mountain | Oct. 11-12 2019 | 35.2|
 | Eastern | Oct. 25-26 2019 | 35.3 |
 | Southeastern | Oct. 25-26 2019 | 35.4 |
