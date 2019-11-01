@@ -187,7 +187,7 @@ Case & Method\#1 & Method\#2 & Method\#3 \\ [0.5ex] % inserts table
 The trim size of the journal is half-letter size, so please be aware that your
 tables or figures may be hard to read if the fonts are too small as shown in
 this Figure \ref{figure:big_table}.
-\begin{figure}[h!]
+\begin{figure}[htbp]
 \centering
 \includegraphics[width=\textwidth]{big_table.png}
 \caption{Fonts are too small.}
@@ -196,7 +196,7 @@ this Figure \ref{figure:big_table}.
 
 In this case, you can either divide the table into multiple parts, or put the
 table/figure sideways on its own page as shown in Figure \ref{figure:big_table1}.
-\begin{sidewaysfigure}[H]
+\begin{sidewaysfigure}[htbp]
   \includegraphics[width=\textwidth]{big_table.png}
   \caption{A big table turned sideways on its own page.}
   \label{figure:big_table1}
@@ -207,7 +207,7 @@ The code for inserting figures sideways is as follows:
 \vbox{
 \begin{lstlisting}[language=TeX, basicstyle=\footnotesize,
 caption=Code to Insert Figures Sideways]
-\begin{sidewaysfigure}[H]
+\begin{sidewaysfigure}[htbp]
   \includegraphics[width=\textwidth]{big_table.png}
   \caption{A big table turned sideways on its own page.}
   \label{figure:big_table1}
