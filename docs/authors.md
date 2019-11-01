@@ -23,9 +23,8 @@ and choose the template you need. Each template has a sample pdf file showing
 what the formatted work looks like.
 
 If you do not want to use Latex we do accept final manuscripts in Word doc.
-Please format your work as much as you can according to the PDF example in the
-[Latex templates](https://github.com/lubaochuan/ccsc-editor).
-Exact formatting is __unnecessary__ because your work will be converted to Latex. Here is a list of sample publishable items:
+Please use this [template in Word doc format](samples/sample-converted.docx), which is converted from our Latex template. It has the correct margin size and font size, which should
+help you gauge the size of your paper (number of pages). Here is a list of sample publishable items:
 - [speech abstract](samples/speech_abstract.pdf)
 - [workshop abstract](samples/workshop_abstract.pdf)
 - [tutorial abstract](samples/tutorial_abstract.pdf)
