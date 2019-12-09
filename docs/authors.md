@@ -37,7 +37,7 @@ files (.tex, .bib, and image files) or the Word doc (with image files) and the
 generated PDF files.
 - copyright release form (see instructions below)
 
-# Copyright Release From
+# Copyright Release Form
 You must submit a copyright release form in order for us to publish your work.
 - please download a fillable pdf
 [copyright release form](copyright/CopyrightRelease_generic_fillable.pdf).
