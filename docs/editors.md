@@ -23,7 +23,7 @@ The instructions regarding to final manuscript formatting have changed.
 | Rocky Mountain | Pam Smallwood |
 | South Central | Laura Baker |
 | Southeastern | John Hunt |
-| Southwestern | Megan Thomas |
+| Southwestern | Mariam Salloum <br> Megan Thomas |
 
 A regional editor serves as a liaison between the regional conference committee
 and the journal editor. Whoever works in this capacity are responsible for
