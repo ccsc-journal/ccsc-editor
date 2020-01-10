@@ -31,7 +31,7 @@ passing the following documents to the journal editor before the deadline.
 
 # Publishable Items
 * welcome statement from conference chair ([example](samples/welcome.pdf), [latex source](samples/welcome.tex))
-* regional board and conference committee rosters ([example](samples/committees.txt)) (and make sure the rosters are
+* regional board and conference committee rosters ([example](samples/committees.txt)) (and please make sure the rosters are
 up to date on [CCSC website ](http://www.ccsc.org/regions/) or conference website)
 * reviewer list ([example](samples/reviewers.txt))
 * papers ([example](samples/paper.pdf))
@@ -39,8 +39,10 @@ up to date on [CCSC website ](http://www.ccsc.org/regions/) or conference websit
 * abstracts ([workshops](samples/workshop_abstract.pdf),
   [tutorials](samples/tutorial_abstract.pdf),
   [posters](samples/poster_abstract.pdf), ([panels](samples/panel.pdf)), ...)
-* speaker bios and speech abstracts (keynote or banquet,
+* invited talk abstracts (e.g. keynote, banquet speech, ...) with speaker bio
   [example](samples/speech_abstract.pdf))
+
+The Latex templates for papers and other abstracts can be found in [this repository](https://github.com/lubaochuan/ccsc-editor).
 
 # Important Dates
 There are two important dates for journal publication:
