@@ -29,6 +29,11 @@ help you gauge the size of your paper (number of pages). Here is a list of sampl
 - [workshop abstract](samples/workshop_abstract.pdf)
 - [tutorial abstract](samples/tutorial_abstract.pdf)
 - [poster abstract](samples/poster_abstract.pdf)
+- [workshop abstract](samples/workshop_abstract.pdf)
+- [tutorial abstract](samples/tutorial_abstract.pdf)
+- [poster abstract](samples/poster_abstract.pdf)
+- [panel asbstract](samples/panel.pdf)
+- [lightning talk abstract](samples/lightning_talk.pdf)
 - [paper](samples/paper.pdf)
 
 The following items need to be in your final manuscript submission:
