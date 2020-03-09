@@ -28,6 +28,7 @@ Sciences in Colleges" according to the following schedule.
 | Northeastern | Apr. 17-18 2020 | 35.8 |
 | Midsouth | Apr. 17-18 2020 | 35.9 |
 | Southwestern | Mar. 22-21 2020 | 35.10 [[digital](http://ccsc.org/publications/journals/SW2020.pdf)] |
+
 ## 2018 - 2019
 
 | Conference | Date | Journal Issue |
