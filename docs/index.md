@@ -23,8 +23,8 @@ Sciences in Colleges" according to the following schedule.
 | Rocky Mountain | Oct. 11-12 2019 | 35.2 [[digital](http://www.ccsc.org/publications/journals/RM2019.pdf)] [[print](https://www.amazon.com/dp/1695207424)] |
 | Eastern | Oct. 25-26 2019 | 35.3 [[digital](http://ccsc.org/publications/journals/EA2019.pdf)] [[print](https://www.amazon.com/dp/1699203504)] |
 | Southeastern | Oct. 25-26 2019 | 35.4 [[digital](http://www.ccsc.org/publications/journals/SE2019.pdf)] [[print](https://www.amazon.com/dp/1696005221)] |
-| Central Plains | Apr. 3-4 2020 | 35.6 [[digital](http://ccsc.org/publications/journals/CP2020.pdf)]|
-| South Central | Apr. 3 2020 | 35.7 [[digital] http://ccsc.org/publications/journals/SC2020.pdf] |
+| Central Plains | Apr. 3-4 2020 | 35.6 [[digital](http://ccsc.org/publications/journals/CP2020.pdf)] |
+| South Central | Apr. 3 2020 | 35.7 [[digital](http://ccsc.org/publications/journals/SC2020.pdf)] |
 | Northeastern | Apr. 17-18 2020 | 35.8 |
 | Midsouth | Apr. 17-18 2020 | 35.9 |
 | Southwestern | Mar. 22-21 2020 | 35.10 [[digital](http://ccsc.org/publications/journals/SW2020.pdf)] |
