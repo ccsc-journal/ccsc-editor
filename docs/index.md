@@ -14,6 +14,21 @@ Proceedings from the conferences are published in "The Journal of Computing
 Sciences in Colleges" according to the following schedule.
 
 # Publication Schedule
+## 2020 - 2021
+
+| Conference | Date | Journal Issue |
+|:-------------|:------------------|:------|
+| Northwestern | Oct. 2-3 2020| 36.1 |
+| Rocky Mountain | Oct. 9-10 2020 | 36.2 |
+| Eastern | Oct. 9-10 2020 | 36.3 |
+| Midwestern | Sept. 25-26 2020 | 36.4 |
+| Southeastern | Nov. 13-14 2020 | 36.5 |
+| Central Plains |  | 36.6 |
+| South Central |  | 36.7 |
+| Northeastern |  | 36.8 |
+| Midsouth |  | 36.9 |
+| Southwestern |  | 36.10 |
+
 ## 2019 - 2020
 
 | Conference | Date | Journal Issue |
@@ -25,23 +40,9 @@ Sciences in Colleges" according to the following schedule.
 | Southeastern | Oct. 25-26 2019 | 35.4 [[digital](http://www.ccsc.org/publications/journals/SE2019.pdf)] [[print](https://www.amazon.com/dp/1696005221)] |
 | Central Plains | Apr. 3-4 2020 | 35.6 [[digital](http://ccsc.org/publications/journals/CP2020.pdf)] [[print](https://www.amazon.com/dp/B0863S9KS3)] |
 | South Central | Apr. 3 2020 | 35.7 [[digital](http://ccsc.org/publications/journals/SC2020.pdf)] [[print](https://www.amazon.com/dp/B0863R6BDC)] |
-| Northeastern | Apr. 17-18 2020 | 35.8 [[digital](http://ccsc.org/publications/journals/NE2020.pdf)] [[print]]|
+| Northeastern | Apr. 17-18 2020 | 35.8 [[digital](http://ccsc.org/publications/journals/NE2020.pdf)] [[print](https://www.amazon.com/dp/B08BDVN74P)]|
 | Midsouth | Apr. 17-18 2020 | 35.9 [[digital](http://ccsc.org/publications/journals/MS2020.pdf)] [[print](https://www.amazon.com/dp/B0874JF86X)] |
 | Southwestern | Mar. 22-21 2020 | 35.10 [[digital](http://ccsc.org/publications/journals/SW2020.pdf)] [[print](https://www.amazon.com/dp/B0863R7GVL)]|
-
-## 2018 - 2019
-
-| Conference | Date | Journal Issue |
-|:-------------|:------------------|:------|
-| Midwestern | Sept. 28-29 2018 | 34.1 |
-| Northwestern | Oct. 12-13 2018   | 34.1 |
-| Rocky Mountain | Oct. 12-13 2018 | 34.2 |
-| Southeastern | Nov. 2-3 2018 | 34.2 |
-| Eastern | Oct. 19-20 2018 | 34.3 [[digital](http://www.ccsc.org/publications/journals/JCSC_34_3_complete.pdf)] [[print](https://www.amazon.com/dp/1727534379)] |
-| Southwestern <br> Central Plains | Mar. 22-23 2019 <br> Apr. 5-6 2019  | 34.4 [[digital](http://www.ccsc.org/publications/journals/CPSW2019.pdf)] [[print](https://www.amazon.com/dp/179883359X)] |
-| South Central | Apr. 5 2019 | 34.5 [[digital](http://www.ccsc.org/publications/journals/SC2019.pdf)] [[print](https://www.amazon.com/dp/1797971174)] |
-| Northeastern | Apr. 12-13 2019 | 34.6 [[digital](http://www.ccsc.org/publications/journals/NE2019.pdf)] [[print](https://www.amazon.com/dp/1092514686)] |
-| Midsouth | Apr. 12-13 2019 | 34.7 [[digital](http://www.ccsc.org/publications/journals/MS2019.pdf)] [[print](https://www.amazon.com/dp/109260281X)] |
 
 [Past Conferences](https://lubaochuan.github.io/ccsc-editor/past_conferences.html)
 
