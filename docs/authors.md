@@ -55,12 +55,7 @@ dropdown menus.
 - sign the form digitally as shown in [this video](https://youtu.be/ZZLM9aDT_ak).
   - select the journal issue number according to the
 [publication schedule](https://lubaochuan.github.io/ccsc-editor).
-  - please note that *both* Part I *and* Part IV need author signatures!
+  - please note that **both** Part I **and** Part IV need author signatures!
   - the form can be signed by all authors or by the principle author for all
   co-authors with their approval.
   - save changes and submit the saved pdf along with your final manuscript.
-
-Note:
-- __Both__ part I and part IV (at the very end of the form) must be signed.
-_ The form can be signed by all authors or by the __principal author__ for all
-co-authors with their approval.

@@ -91,7 +91,7 @@ because easy typo should have been fixed and the authors should be responsible
 for the content.
 
 Note that When you convert a paper from Word doc to Latex, you can use
-https://scholar.google.com/ to look up each bibliography entry and copy the
+[Google scholar](https://scholar.google.com/) to look up each bibliography entry and copy the
 `bibtex` export (by clicking the quotation mark icon). This way you don't have
 to create the entries from scratch (some editing may be necessary if the entry
 seems incomplete).
