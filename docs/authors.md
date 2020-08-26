@@ -23,7 +23,8 @@ and choose the template you need. Each template has a sample pdf file showing
 what the formatted work looks like.
 
 If you do not want to use Latex we do accept final manuscripts in Word doc.
-Please use this [template in Word doc format](samples/sample-converted.docx), which is converted from our Latex template. It has the correct margin size and font size, which should
+Please use this [template in Word doc format](samples/sample-converted.docx),
+which is converted from our Latex template. It has the correct margin size and font size, which should
 help you gauge the size of your paper (number of pages). Here is a list of sample publishable items:
 - [speech abstract](samples/speech_abstract.pdf)
 - [workshop abstract](samples/workshop_abstract.pdf)
@@ -37,10 +38,12 @@ help you gauge the size of your paper (number of pages). Here is a list of sampl
 - [paper](samples/paper.pdf)
 
 The following items need to be in your final manuscript submission:
-- final manuscript (paper or abstracts), which should include all Latex source
-files (.tex, .bib, and image files) or the Word doc (with image files) and the
-generated PDF files.
-- copyright release form (see instructions below)
+- please include all source files (.tex, .bib, .doc, or .docx)
+and *separate* copies of all images, figures and tables.
+- please include a PDF version of your final manuscript, so that if there are
+any problems with special characters or special formatting, this informs the
+editors what you expected these to look like within your final manuscript.
+- Please submit a copyright release form (see instructions below).
 
 # Copyright Release Form
 You must submit a copyright release form in order for us to publish your work.
@@ -50,7 +53,12 @@ You must submit a copyright release form in order for us to publish your work.
 (e.g., CCSC Eastern Conference) and journal number (e.g. 34, 3 2019) via the
 dropdown menus.
 - sign the form digitally as shown in [this video](https://youtu.be/ZZLM9aDT_ak).
-- save changes and submit the saved pdf along with your final manuscript.
+  - select the journal issue number according to the
+[publication schedule](https://lubaochuan.github.io/ccsc-editor).
+  - please note that *both* Part I *and* Part IV need author signatures!
+  - the form can be signed by all authors or by the principle author for all
+  co-authors with their approval.
+  - save changes and submit the saved pdf along with your final manuscript.
 
 Note:
 - __Both__ part I and part IV (at the very end of the form) must be signed.

@@ -88,7 +88,13 @@ correctly:
 
 The regional editor is not supposed to edit the content of the manuscripts
 because easy typo should have been fixed and the authors should be responsible
-for the meaty part.
+for the content.
+
+Note that When you convert a paper from Word doc to Latex, you can use
+https://scholar.google.com/ to look up each bibliography entry and copy the
+`bibtex` export (by clicking the quotation mark icon). This way you don't have
+to create the entries from scratch (some editing may be necessary if the entry
+seems incomplete).
 
 # Work with the Journal Editor
 A regional editor should send publishable items in their final
