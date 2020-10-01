@@ -22,7 +22,7 @@ Sciences in Colleges" according to the following schedule.
 | Rocky Mountain | Oct. 9-10 2020 | 36.2 |
 | Eastern | Oct. 9-10 2020 | 36.3 |
 | Midwestern | Sept. 25-26 2020 | 36.4 |
-| Southeastern | Nov. 13-14 2020 | 36.5 |
+| Southeastern | Jan. 22-23 2021 | 36.5 |
 | Central Plains |  | 36.6 |
 | South Central |  | 36.7 |
 | Northeastern |  | 36.8 |
