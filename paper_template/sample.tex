@@ -1,32 +1,20 @@
-\documentclass{article}
+\documentclass[article,twoside]{combine}
 
 \input{preamble}
 
-\title{Paper Template\footnote{\protect\input{copyright}}
+\title{Paper Template and Formatting Requirements\footnote{\protect\input{copyright}}
 }
 
-% Target typesetting:
-%
-%  Baochuan Lu, Author A, John Meinke, Author B
-%        Computer and Information Sciences
-%          Southwest Baptist University
-%               Bolivar, MO 65613
-%            {blu,author}@sbuniv.edu
-%          Computer Science Department
-%              Another University
-%              Our Town, TX 00000
-%           {jmeinke,author}@univ.edu
-
 \author{
-Baochuan Lu\affmark[1], Author A\affmark[1], John Meinke\affmark[2], Author B\affmark[2]\\
+Baochuan Lu\affmark[1] and John Meinke\affmark[2]\\
 \affmark[1]Computer and Information Sciences\\
 Southwest Baptist University\\
 Bolivar, MO 65613\\
-\email{\{blu,author\}@sbuniv.edu}\\
+\email{blu@sbuniv.edu}\\
 \affmark[2]Computer Science Department\\
 Another University\\
 Our Town, TX 00000\\
-\email{\{jmeinke,author\}@univ.edu}\\
+\email{jmeinke@univ.edu}\\
 }
 
 \begin{document}
@@ -39,7 +27,7 @@ Authors can also use this document as a template to format their papers.
 
 \section{Length}
 Prepare the paper for written understanding with a length of at most ten
-(10) single-spaced pages including tables, figures, and a list of references or
+(\textbf{10}) single-spaced pages including tables, figures, and a list of references or
 bibliography.
 
 \section{Style}
@@ -50,8 +38,8 @@ clarification when they are introduced.
 
 \section{Title and Author Information}
 Please follow the example in this paper to enter title and author information.
-The title should use title-casing and you can use this tool to double check:
-\texttt{https://titlecaseconverter.com}
+The title should use title-casing. Please use \texttt{https://titlecaseconverter.com}
+with ``AP'' style to reformat your title.
 
 Use the following code in the ``author block'' if there is one author:
 
@@ -104,9 +92,8 @@ Use the following code in the ``author block'' if there are multiple authors fro
 
 \section{Body of the Manuscript}
 The text may be organized into sections and subsections. Please use
-\verb+\section+ and  \verb+\subsection+ commands to define them as shown in this
-paper. Latex will apply section formatting rules. If you opt to number your
-sections and subsections, do so specifically using Arabic numbers.
+\verb+\section+ and  \verb+\subsection+ commands to define them as shown in the
+Latex source file of this document. Latex will apply section formatting rules.
 
 \subsection{Abstract}
 Provide a one-paragraph brief overview of the paper in both the manuscript for
@@ -118,6 +105,7 @@ Appropriately cite all references to other published works included in the paper
 last section in the paper. Here are citation examples for a
 book\cite{latexcompanion}, a journal paper\cite{einstein}, a
 website\cite{knuthwebsite}, and a conference proceeding paper\cite{maurer}.
+Please check out the source code of this document for details.
 
 \subsection{Double Quote}
 The proper way to typeset double quote is to use two backticks or grave accents
@@ -164,7 +152,8 @@ Include all tables and figures within the body of the text. (Provide as separate
 files in the original format any figures so that if there are problems with the
 figures coming into the final manuscript there are alternatives available to the editors.)
 
-Here is an example Table \ref{table:nonlin}.
+Here is an example Table \ref{table:nonlin}. Note that each table or figure \textbf{must} have
+a title as our style requirement.
 
 \begin{table}[ht]
 \caption{Nonlinear Model Results} % title of Table
@@ -214,7 +203,7 @@ caption=Code to Insert Figures Sideways]
 \end{sidewaysfigure}
 \end{lstlisting}
 }
-Here is a live example: \texttt{https://www.overleaf.com/read/fzcmnctdppgz}
+Here is a live example: \url{https://www.overleaf.com/read/fzcmnctdppgz}
 
 \subsection{Use of Color}
 Even though our digital journal is in color, our print journal is in black and white.
@@ -225,9 +214,14 @@ you choose may not be distinguishable after they are turned into gray-scale.
 The \verb+\printbibliography+ command prints a list of references for you.
 Please use \texttt{sample.bib} as an example to create your bibliography entries.
 
+If you can find a reference on \url{https://scholar.google.com/} you can get a
+``BibTex'' export by clicking on the quotation mark symbol, which is a lot easier
+than entering the information manually.
+
 \subsection{Code Listings}
 Commands from \texttt{listings} package allow you to display code easily with
 customizable coloring and styling rules. Here is an example.
+Please check out the source code of this document for details.
 
 \begin{lstlisting}[language=Python,  caption=Python example]
 x = 42
@@ -273,7 +267,6 @@ The following materials will need to be submitted:
   A major plus of the Consortium conferences is the presentation of the papers,
   and you must plan on attending. If you do not present the paper at the
   conference the paper will be removed from the ACM Digital Library.
-  \item A statement of any special presentation needs that you may have.
   \item A pdf version of your manuscript is most helpful. If there are problems
   with special characters or special formatting this provides the editors with
   what you expected your final manuscript to look like. Providing a pdf version
