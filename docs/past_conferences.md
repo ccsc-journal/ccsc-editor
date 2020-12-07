@@ -5,6 +5,21 @@ group: navigation
 ---
 # Past Conferences
 
+## 2019 - 2020
+
+| Conference | Date | Journal Issue |
+|:-------------|:------------------|:------|
+| Northwestern | Oct. 4-5 2019 | 35.1 [[digital](http://www.ccsc.org/publications/journals/NW2019.pdf)] [[print](https://www.amazon.com/dp/1694497798)] |
+| Midwestern | Oct. 4-5 2019 | 35.5 [[digital](http://www.ccsc.org/publications/journals/MW2019.pdf)] [[print](https://www.amazon.com/dp/1694361128)] |
+| Rocky Mountain | Oct. 11-12 2019 | 35.2 [[digital](http://www.ccsc.org/publications/journals/RM2019.pdf)] [[print](https://www.amazon.com/dp/1695207424)] |
+| Eastern | Oct. 25-26 2019 | 35.3 [[digital](http://ccsc.org/publications/journals/EA2019.pdf)] [[print](https://www.amazon.com/dp/1699203504)] |
+| Southeastern | Oct. 25-26 2019 | 35.4 [[digital](http://www.ccsc.org/publications/journals/SE2019.pdf)] [[print](https://www.amazon.com/dp/1696005221)] |
+| Central Plains | Apr. 3-4 2020 | 35.6 [[digital](http://ccsc.org/publications/journals/CP2020.pdf)] [[print](https://www.amazon.com/dp/B0863S9KS3)] |
+| South Central | Apr. 3 2020 | 35.7 [[digital](http://ccsc.org/publications/journals/SC2020.pdf)] [[print](https://www.amazon.com/dp/B0863R6BDC)] |
+| Northeastern | Apr. 17-18 2020 | 35.8 [[digital](http://ccsc.org/publications/journals/NE2020.pdf)] [[print](https://www.amazon.com/dp/B08BDVN74P)]|
+| Midsouth | Apr. 17-18 2020 | 35.9 [[digital](http://ccsc.org/publications/journals/MS2020.pdf)] [[print](https://www.amazon.com/dp/B0874JF86X)] |
+| Southwestern | Mar. 22-21 2020 | 35.10 [[digital](http://ccsc.org/publications/journals/SW2020.pdf)] [[print](https://www.amazon.com/dp/B0863R7GVL)]|
+
 ## 2018 - 2019
 
 | Conference | Date | Journal Issue |
@@ -14,4 +29,3 @@ group: navigation
 | South Central | Apr. 5 2019 | 34.5 [[digital](http://www.ccsc.org/publications/journals/SC2019.pdf)] [[print](https://www.amazon.com/dp/1797971174)] |
 | Northeastern | Apr. 12-13 2019 | 34.6 [[digital](http://www.ccsc.org/publications/journals/NE2019.pdf)] [[print](https://www.amazon.com/dp/1092514686)] |
 | Midsouth | Apr. 12-13 2019 | 34.7 [[digital](http://www.ccsc.org/publications/journals/MS2019.pdf)] [[print](https://www.amazon.com/dp/109260281X)] |
-
