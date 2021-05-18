@@ -20,7 +20,7 @@ Sciences in Colleges" according to the following schedule.
 |:-------------|:------------------|:------|
 | Northwestern | Oct. 2-3 2020| 36.1 [[digital](http://www.ccsc.org/publications/journals/NW2020.pdf)] |
 | Rocky Mountain | Oct. 9-10 2020 | 36.2 [[digital](http://www.ccsc.org/publications/journals/RM2020.pdf)] |
-| Eastern | Oct. 9-10 2020 | 36.3 [[digital](http://www.ccsc.org/publications/journals/EA2020.pdf)]|
+| Eastern | Oct. 9-10 2020 | 36.3 [[digital](http://www.ccsc.org/publications/journals/EA2020.pdf)] [[print](https://www.amazon.com/dp/B08NV684GD)]|
 | Midwestern | Sept. 25-26 2020 | 36.4 [[digital](http://www.ccsc.org/publications/journals/MW2020.pdf)]|
 | Southeastern | Jan. 22-23 2021 | 36.5 [[digital](http://www.ccsc.org/publications/journals/SE2020.pdf)] |
 | Central Plains | Apr. 9-10 2021 | 36.6 [[digital](http://www.ccsc.org/publications/journals/CP2021.pdf)] [[print](https://www.amazon.com/dp/B0948LNWYR)]|
