@@ -20,12 +20,12 @@ Sciences in Colleges" according to the following schedule.
 |:-------------|:------------------|:------|
 | Northwestern | Oct. 2-3 2020| 36.1 [[digital](http://www.ccsc.org/publications/journals/NW2020.pdf)] [[print](https://www.amazon.com/dp/B095G5K2LW)]|
 | Rocky Mountain | Oct. 9-10 2020 | 36.2 [[digital](http://www.ccsc.org/publications/journals/RM2020.pdf)] [[print](https://www.amazon.com/dp/B095GJ5WNK)]|
-| Eastern | Oct. 9-10 2020 | 36.3 [[digital](http://www.ccsc.org/publications/journals/EA2020.pdf)] [[print](https://www.amazon.com/dp/B08NV684GD)] [[print](https://www.amazon.com/dp/B08NV684GD)]|
+| Eastern | Oct. 9-10 2020 | 36.3 [[digital](http://www.ccsc.org/publications/journals/EA2020.pdf)] [[print](https://www.amazon.com/dp/B08NV684GD)]|
 | Midwestern | Sept. 25-26 2020 | 36.4 [[digital](http://www.ccsc.org/publications/journals/MW2020.pdf)] [[print](https://www.amazon.com/dp/B095L5LWXQ)]|
 | Southeastern | Jan. 22-23 2021 | 36.5 [[digital](http://www.ccsc.org/publications/journals/SE2020.pdf)] [[print](https://www.amazon.com/dp/B095LH5GWX)]|
 | Central Plains | Apr. 9-10 2021 | 36.6 [[digital](http://www.ccsc.org/publications/journals/CP2021.pdf)] [[print](https://www.amazon.com/dp/B0948LNWYR)]|
 | South Central | Apr. 9 2021 | 36.7 [[digital](http://www.ccsc.org/publications/journals/SC2021.pdf)] [[print](https://www.amazon.com/dp/B094ZN6FJH)]|
-| Northeastern | Apr. 16-17 2021 | 36.8 [[digital](http://www.ccsc.org/publications/journals/NE2021.pdf)] [[print](https://www.amazon.com/dp/B094GY7FQ5)]|
+| Northeastern | Apr. 16-17 2021 | 36.8 [[digital](http://www.ccsc.org/publications/journals/NE2021.pdf)] [[print](https://www.amazon.com/dp/B095TCB4RT)]|
 | Midsouth | canceled | 36.9 |
 | Southwestern |  | 36.10 [[digital](http://www.ccsc.org/publications/journals/SW2021.pdf)] [[print]()]|
 
