@@ -27,7 +27,7 @@ Sciences in Colleges" according to the following schedule.
 | South Central | Apr. 9 2021 | 36.7 [[digital](http://www.ccsc.org/publications/journals/SC2021.pdf)] [[print](https://www.amazon.com/dp/B094ZN6FJH)]|
 | Northeastern | Apr. 16-17 2021 | 36.8 [[digital](http://www.ccsc.org/publications/journals/NE2021.pdf)] [[print](https://www.amazon.com/dp/B095TCB4RT)]|
 | Midsouth | canceled | 36.9 |
-| Southwestern |  | 36.10 [[digital](http://www.ccsc.org/publications/journals/SW2021.pdf)] [[print](https://www.amazon.com/dp/B096LWMQJ5)]|
+| Southwestern | Mar. 26-27 2021 | 36.10 [[digital](http://www.ccsc.org/publications/journals/SW2021.pdf)] [[print](https://www.amazon.com/dp/B096LWMQJ5)]|
 
 [Past Conferences](https://lubaochuan.github.io/ccsc-editor/past_conferences.html)
 
