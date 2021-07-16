@@ -14,6 +14,21 @@ Proceedings from the conferences are published in "The Journal of Computing
 Sciences in Colleges" according to the following schedule.
 
 # Publication Schedule
+## 2021 - 2022
+
+| Conference | Date | Journal Issue |
+|:-------------|:------------------|:------|
+| Northwestern | Oct. 8-9 2021| 37.1 |
+| Rocky Mountain | Oct. 15-16 2021 | 37.2 |
+| Eastern | Oct. 22-23 2021 | 37.3 |
+| Midwestern | Oct. 1-2 2021 | 37.4 |
+| Southeastern | Jan. 28-29 2022 | 37.5 |
+| Central Plains | Apr. 1-2 2022 | 37.6 |
+| South Central | | 37.7 |
+| Northeastern | | 37.8 |
+| Midsouth | | 37.9 |
+| Southwestern | | 37.10 |
+
 ## 2020 - 2021
 
 | Conference | Date | Journal Issue |
