@@ -14,7 +14,7 @@ The instructions regarding to final manuscript formatting have changed.
 
 | Region | Editor |
 |:-------|:-------|
-| Central Plains | Crystal Peng |
+| Central Plains | Joseph Kendall-Morwick |
 | Eastern | Steven Kreutzer |
 | Midsouth | David Naugler |
 | Midwest | Saleh Alnaeli |
