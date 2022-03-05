@@ -18,10 +18,10 @@ The instructions regarding to final manuscript formatting have changed.
 | Eastern | Steven Kreutzer |
 | Midsouth | David Naugler |
 | Midwest | Saleh Alnaeli |
-| Northeastern | Mihaela Sabin |
+| Northeastern | Jeremiah W. Johnson |
 | Northwestern | Sharon Tuttle |
 | Rocky Mountain | Pam Smallwood |
-| South Central | Laura Baker |
+| South Central | Bingyang Wei <br> Mustafa Al-Lail |
 | Southeastern | John Hunt |
 | Southwestern | Mariam Salloum <br> Megan Thomas |
 

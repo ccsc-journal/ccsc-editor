@@ -24,10 +24,10 @@ Sciences in Colleges" according to the following schedule.
 | Midwestern | Oct. 1-2 2021 | 37.4 [[digital](http://www.ccsc.org/publications/journals/MW2021.pdf)] |
 | Southeastern | Jan. 28-29 2022 | 37.5 [[digital](http://www.ccsc.org/publications/journals/SE2021.pdf)] |
 | Central Plains | Apr. 1-2 2022 | 37.6 |
-| South Central | | 37.7 |
-| Northeastern | | 37.8 |
+| South Central | Apr. 8 2022| 37.7 |
+| Northeastern | Apr. 1-2 2022 | 37.8 |
 | Midsouth | | 37.9 |
-| Southwestern | | 37.10 |
+| Southwestern | Mar. 25-26, 2022 | 37.10 |
 
 ## 2020 - 2021
 
