@@ -18,16 +18,16 @@ Sciences in Colleges" according to the following schedule.
 
 | Conference | Date | Journal Issue |
 |:-------------|:------------------|:------|
-| Northwestern | Nov. 4-5 2022| 38.1 [[digital]()]|
-| Rocky Mountain | Oct. 21-22 2022 | 38.2 [[digital]()] |
-| Eastern | Oct. 21-22 2022 | 38.3 [[digital]()] |
-| Midwestern | Oct. 7-8 2022 | 38.4 [[digital]()] |
-| Southeastern | Nov. 11-12 2022 | 38.5 [[digital]()] |
-| Central Plains | TBD | 38.6 [[digital]()] |
-| South Central | TBD | 38.7 [[digital]()] |
-| Northeastern | TBD | 38.8 [[digital]()] |
-| Midsouth | TBD | 38.9 [[digital]()]|
-| Southwestern | TBD | 38.10 [[digital]()] |
+| Northwestern | Nov. 4-5 2022| 38.1 |
+| Rocky Mountain | Oct. 21-22 2022 | 38.2  |
+| Eastern | Oct. 21-22 2022 | 38.3 |
+| Midwestern | Oct. 7-8 2022 | 38.4 |
+| Southeastern | Nov. 11-12 2022 | 38.5 |
+| Central Plains | TBD | 38.6 |
+| South Central | TBD | 38.7  |
+| Northeastern | TBD | 38.8  |
+| Midsouth | TBD | 38.9 |
+| Southwestern | TBD | 38.10 |
 
 ## 2021 - 2022
 
