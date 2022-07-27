@@ -14,6 +14,21 @@ Proceedings from the conferences are published in "The Journal of Computing
 Sciences in Colleges" according to the following schedule.
 
 # Publication Schedule
+## 2022 - 2023
+
+| Conference | Date | Journal Issue |
+|:-------------|:------------------|:------|
+| Northwestern | Nov. 4-5 2022| 38.1 [[digital]()]|
+| Rocky Mountain | Oct. 21-22 2022 | 38.2 [[digital]()] |
+| Eastern | Oct. 21-22 2022 | 38.3 [[digital]()] |
+| Midwestern | Oct. 7-8 2022 | 38.4 [[digital]()] |
+| Southeastern | Nov. 11-12 2022 | 38.5 [[digital]()] |
+| Central Plains | TBD | 38.6 [[digital]()] |
+| South Central | TBD | 38.7 [[digital]()] |
+| Northeastern | TBD | 38.8 [[digital]()] |
+| Midsouth | TBD | 38.9 [[digital]()]|
+| Southwestern | TBD | 38.10 [[digital]()] |
+
 ## 2021 - 2022
 
 | Conference | Date | Journal Issue |
@@ -28,21 +43,6 @@ Sciences in Colleges" according to the following schedule.
 | Northeastern | Apr. 1-2 2022 | 37.8 [[digital](http://www.ccsc.org/publications/journals/NE2022.pdf)] |
 | Midsouth | | 37.9 |
 | Southwestern | Mar. 25-26, 2022 | 37.10 [[digital](http://www.ccsc.org/publications/journals/SW2022.pdf)] |
-
-## 2020 - 2021
-
-| Conference | Date | Journal Issue |
-|:-------------|:------------------|:------|
-| Northwestern | Oct. 2-3 2020| 36.1 [[digital](http://www.ccsc.org/publications/journals/NW2020.pdf)] [[print](https://www.amazon.com/dp/B095G5K2LW)]|
-| Rocky Mountain | Oct. 9-10 2020 | 36.2 [[digital](http://www.ccsc.org/publications/journals/RM2020.pdf)] [[print](https://www.amazon.com/dp/B095GJ5WNK)]|
-| Eastern | Oct. 9-10 2020 | 36.3 [[digital](http://www.ccsc.org/publications/journals/EA2020.pdf)] [[print](https://www.amazon.com/dp/B08NV684GD)]|
-| Midwestern | Sept. 25-26 2020 | 36.4 [[digital](http://www.ccsc.org/publications/journals/MW2020.pdf)] [[print](https://www.amazon.com/dp/B095L5LWXQ)]|
-| Southeastern | Jan. 22-23 2021 | 36.5 [[digital](http://www.ccsc.org/publications/journals/SE2020.pdf)] [[print](https://www.amazon.com/dp/B095LH5GWX)]|
-| Central Plains | Apr. 9-10 2021 | 36.6 [[digital](http://www.ccsc.org/publications/journals/CP2021.pdf)] [[print](https://www.amazon.com/dp/B0948LNWYR)]|
-| South Central | Apr. 9 2021 | 36.7 [[digital](http://www.ccsc.org/publications/journals/SC2021.pdf)] [[print](https://www.amazon.com/dp/B094ZN6FJH)]|
-| Northeastern | Apr. 16-17 2021 | 36.8 [[digital](http://www.ccsc.org/publications/journals/NE2021.pdf)] [[print](https://www.amazon.com/dp/B095TCB4RT)]|
-| Midsouth | canceled | 36.9 |
-| Southwestern | Mar. 26-27 2021 | 36.10 [[digital](http://www.ccsc.org/publications/journals/SW2021.pdf)] [[print](https://www.amazon.com/dp/B096LWMQJ5)]|
 
 [Past Conferences](https://lubaochuan.github.io/ccsc-editor/past_conferences.html)
 
