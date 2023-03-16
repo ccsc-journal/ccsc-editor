@@ -23,11 +23,11 @@ Sciences in Colleges" according to the following schedule.
 | Eastern | Oct. 21-22 2022 | 38.3 |
 | Midwestern | Oct. 7-8 2022 | 38.4 |
 | Southeastern | Nov. 11-12 2022 | 38.5 |
-| Central Plains | TBD | 38.6 |
-| South Central | TBD | 38.7  |
-| Northeastern | TBD | 38.8  |
+| Central Plains | Apr. 21-22 2023 | 38.6 |
+| South Central | Mar. 31 2023 | 38.7  |
+| Northeastern | Apr. 14-15 2023 | 38.8  |
 | Midsouth | TBD | 38.9 |
-| Southwestern | TBD | 38.10 |
+| Southwestern | Apr. 1 2023 | 38.10 |
 
 ## 2021 - 2022
 
