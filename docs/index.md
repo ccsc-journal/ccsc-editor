@@ -18,16 +18,16 @@ Sciences in Colleges" according to the following schedule.
 
 | Conference | Date | Journal Issue |
 |:-------------|:------------------|:------|
-| Northwestern | Nov. 4-5 2022| 38.1 |
-| Rocky Mountain | Oct. 21-22 2022 | 38.2  |
-| Eastern | Oct. 21-22 2022 | 38.3 |
-| Midwestern | Oct. 7-8 2022 | 38.4 |
-| Southeastern | Nov. 11-12 2022 | 38.5 |
-| Central Plains | Apr. 21-22 2023 | 38.6 |
-| South Central | Mar. 31 2023 | 38.7  |
-| Northeastern | Apr. 14-15 2023 | 38.8  |
+| Northwestern | Nov. 4-5 2022| 38.1 [[digital](https://www.ccsc.org/publications/journals/NW2022.pdf)] |
+| Rocky Mountain | Oct. 21-22 2022 | 38.2 [[digital](https://www.ccsc.org/publications/journals/RM2022.pdf)] |
+| Eastern | Oct. 21-22 2022 | 38.3 [[digital](https://www.ccsc.org/publications/journals/EA2022.pdf)] |
+| Midwestern | Oct. 7-8 2022 | 38.4 [[digital](https://www.ccsc.org/publications/journals/MW2022.pdf)] |
+| Southeastern | Nov. 11-12 2022 | 38.5 [[digital](https://www.ccsc.org/publications/journals/SE2022.pdf)] |
+| Central Plains | Apr. 21-22 2023 | 38.6 [[digital](https://www.ccsc.org/publications/journals/CP2023.pdf)] |
+| South Central | Mar. 31 2023 | 38.7 [[digital](https://www.ccsc.org/publications/journals/SC2023.pdf)] |
+| Northeastern | Apr. 14-15 2023 | 38.8 [[digital](https://www.ccsc.org/publications/journals/NE2023.pdf)] |
 | Midsouth | TBD | 38.9 |
-| Southwestern | Apr. 1 2023 | 38.10 |
+| Southwestern | Apr. 1 2023 | 38.10 [[digital](https://www.ccsc.org/publications/journals/SW2023.pdf)] |
 
 ## 2021 - 2022
 
