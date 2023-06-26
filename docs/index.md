@@ -14,6 +14,22 @@ Proceedings from the conferences are published in "The Journal of Computing
 Sciences in Colleges" according to the following schedule.
 
 # Publication Schedule
+
+## 2023 - 2024
+
+| Conference | Date | Journal Issue |
+|:-------------|:------------------|:------|
+| Northwestern | Oct. 13-14 2023| 39.1  |
+| Rocky Mountain | Oct. 20-21 2023 | 39.2 |
+| Eastern | Oct. 20-21 2023 | 39.3 |
+| Midwestern | Oct. 20-21 2023 | 39.4 |
+| Southeastern | Nov. 3-4 2023 | 39.5 |
+| Central Plains | Apr. 5-6 2024 | 39.6 |
+| South Central | 2024 | 39.7 |
+| Northeastern | Apr. 12-13 2024 | 39.8 |
+| Midsouth | TBD | 39.9 |
+| Southwestern | 2024 | 39.10 |
+
 ## 2022 - 2023
 
 | Conference | Date | Journal Issue |
