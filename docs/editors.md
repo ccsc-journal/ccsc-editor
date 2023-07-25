@@ -22,7 +22,7 @@ The instructions regarding to final manuscript formatting have changed.
 | Northwestern | Sharon Tuttle |
 | Rocky Mountain | Pam Smallwood |
 | South Central | Bingyang Wei <br> Mustafa Al-Lail |
-| Southeastern | Adam Lewis |
+| Southeastern | Kevin Treu |
 | Southwestern | Mariam Salloum <br> Megan Thomas |
 
 A regional editor serves as a liaison between the regional conference committee
