@@ -23,7 +23,7 @@ Sciences in Colleges" according to the following schedule.
 | Rocky Mountain | Oct. 20-21 2023 | 39.2 [[digital](https://www.ccsc.org/publications/journals/RM2023.pdf)] |
 | Eastern | Oct. 20-21 2023 | 39.3 [[digital](https://www.ccsc.org/publications/journals/EA2023.pdf)] |
 | Midwestern | Oct. 20-21 2023 | 39.4 [[digital](https://www.ccsc.org/publications/journals/MW2023.pdf)] |
-| Southeastern | Nov. 3-4 2023 | 39.5 |
+| Southeastern | Nov. 3-4 2023 | 39.5 [[digital](https://www.ccsc.org/publications/journals/SE2023.pdf)] |
 | Central Plains | Apr. 5-6 2024 | 39.6 |
 | South Central | 2024 | 39.7 |
 | Northeastern | Apr. 12-13 2024 | 39.8 |
