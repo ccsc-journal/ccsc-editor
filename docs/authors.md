@@ -42,7 +42,8 @@ The following items should be included in your final manuscript submission:
 - all source files (.tex, .bib, .doc, or .docx) and copies of
 all images and figures in *separate* files.
 - a PDF version of your final manuscript, which serves as a reference in case
-there are any problems with special characters or special formatting. Our editors need to know what you expect your final manuscripts to appear in the journal.
+there are any problems with special characters or special formatting.
+Our editors need to know what you expect your final manuscripts to appear in the journal.
 - a copyright release form (see instructions below).
 
 # Copyright Release Form
