@@ -24,11 +24,11 @@ Sciences in Colleges" according to the following schedule.
 | Eastern | Oct. 20-21 2023 | 39.3 [[digital](https://www.ccsc.org/publications/journals/EA2023.pdf)] |
 | Midwestern | Oct. 20-21 2023 | 39.4 [[digital](https://www.ccsc.org/publications/journals/MW2023.pdf)] |
 | Southeastern | Nov. 3-4 2023 | 39.5 [[digital](https://www.ccsc.org/publications/journals/SE2023.pdf)] |
-| Central Plains | Apr. 5-6 2024 | 39.6 |
-| South Central | 2024 | 39.7 |
-| Northeastern | Apr. 12-13 2024 | 39.8 |
+| Central Plains | Apr. 5-6 2024 | 39.6 [[digital](https://www.ccsc.org/publications/journals/CP2024.pdf)]|
+| South Central | 2024 | 39.7 [[digital](https://www.ccsc.org/publications/journals/SC2024.pdf)] |
+| Northeastern | Apr. 12-13 2024 | 39.8 [[digital](https://www.ccsc.org/publications/journals/NE2024.pdf)] |
 | Midsouth | TBD | 39.9 |
-| Southwestern | 2024 | 39.10 |
+| Southwestern | 2024 | 39.10 [[digital](https://www.ccsc.org/publications/journals/SW2024.pdf)] |
 
 ## 2022 - 2023
 
