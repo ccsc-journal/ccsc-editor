@@ -62,6 +62,15 @@ Sciences in Colleges" according to the following schedule.
 
 [Past Conferences](https://lubaochuan.github.io/ccsc-editor/past_conferences.html)
 
+# Copyright Notice
+All CCSC journal issues are copyrighted by the Consortium for Computing Sciences
+in Colleges. Permission to copy without fee all or part of the journal is granted
+provided that the copies are not made or distributed for direct commercial
+advantage, the CCSC copyright notice and the title of the publication and its date
+appear, and notice is given that copying is by permission of the Consortium for
+Computing Sciences in Colleges. To copy otherwise, or to republish, requires a
+fee and/or specific permission.
+
 # Journal Distribution
 
 The journals are distributed in following three channels:
