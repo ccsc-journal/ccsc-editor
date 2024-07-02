@@ -5,6 +5,36 @@ group: navigation
 ---
 # Past Conferences
 
+## 2022 - 2023
+
+| Conference | Date | Journal Issue |
+|:-------------|:------------------|:------|
+| Northwestern | Nov. 4-5 2022| 38.1 [[digital](https://www.ccsc.org/publications/journals/NW2022.pdf)] |
+| Rocky Mountain | Oct. 21-22 2022 | 38.2 [[digital](https://www.ccsc.org/publications/journals/RM2022.pdf)] |
+| Eastern | Oct. 21-22 2022 | 38.3 [[digital](https://www.ccsc.org/publications/journals/EA2022.pdf)] |
+| Midwestern | Oct. 7-8 2022 | 38.4 [[digital](https://www.ccsc.org/publications/journals/MW2022.pdf)] |
+| Southeastern | Nov. 11-12 2022 | 38.5 [[digital](https://www.ccsc.org/publications/journals/SE2022.pdf)] |
+| Central Plains | Apr. 21-22 2023 | 38.6 [[digital](https://www.ccsc.org/publications/journals/CP2023.pdf)] |
+| South Central | Mar. 31 2023 | 38.7 [[digital](https://www.ccsc.org/publications/journals/SC2023.pdf)] |
+| Northeastern | Apr. 14-15 2023 | 38.8 [[digital](https://www.ccsc.org/publications/journals/NE2023.pdf)] |
+| Midsouth | TBD | 38.9 |
+| Southwestern | Apr. 1 2023 | 38.10 [[digital](https://www.ccsc.org/publications/journals/SW2023.pdf)] |
+
+## 2021 - 2022
+
+| Conference | Date | Journal Issue |
+|:-------------|:------------------|:------|
+| Northwestern | Oct. 8-9 2021| 37.1 [[digital](http://www.ccsc.org/publications/journals/NW2021.pdf)]|
+| Rocky Mountain | Oct. 15-16 2021 | 37.2 [[digital](http://www.ccsc.org/publications/journals/RM2021.pdf)] |
+| Eastern | Oct. 22-23 2021 | 37.3 [[digital](http://www.ccsc.org/publications/journals/EA2021.pdf)] |
+| Midwestern | Oct. 1-2 2021 | 37.4 [[digital](http://www.ccsc.org/publications/journals/MW2021.pdf)] |
+| Southeastern | Jan. 28-29 2022 | 37.5 [[digital](http://www.ccsc.org/publications/journals/SE2021.pdf)] |
+| Central Plains | Apr. 1-2 2022 | 37.6 [[digital](http://www.ccsc.org/publications/journals/CP2022.pdf)] |
+| South Central | Apr. 8 2022| 37.7 [[digital](http://www.ccsc.org/publications/journals/SC2022.pdf)] |
+| Northeastern | Apr. 1-2 2022 | 37.8 [[digital](http://www.ccsc.org/publications/journals/NE2022.pdf)] |
+| Midsouth | | 37.9 |
+| Southwestern | Mar. 25-26, 2022 | 37.10 [[digital](http://www.ccsc.org/publications/journals/SW2022.pdf)] |
+
 ## 2020 - 2021
 
 | Conference | Date | Journal Issue |
