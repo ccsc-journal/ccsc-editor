@@ -12,18 +12,18 @@ The instructions regarding to final manuscript formatting have changed.
 
 # Regional Editors Roster
 
-| Region | Editor |
-|:-------|:-------|
-| Central Plains | Joseph Kendall-Morwick |
-| Eastern | Steven Kreutzer |
-| Midsouth | David Naugler |
-| Midwest | Saleh Alnaeli |
-| Northeastern | Jeremiah W. Johnson |
-| Northwestern | Sharon Tuttle |
-| Rocky Mountain | Pam Smallwood |
-| South Central | Bingyang Wei <br> Mustafa Al-Lail |
-| Southeastern | Kevin Treu |
-| Southwestern | Mariam Salloum <br> Megan Thomas |
+| Region | Editor | Email | School Affiliation |
+|:-------|:-------|:-------| :-------|
+| Midwestern | Saleh Alnaeli | alnaelis@uwstout.edu | University of Wisconsin-Stout |
+| Northwestern | Sharon Tuttle | st10@humboldt.edu | Humboldt State University |
+| Rock Mountain | Pam Smallwood| psmallwo@regis.edu | Regis University |
+| Eastern | George Dimitoglou | dimitoglou@hood.edu | Hood College |
+| Southeastern | Adam Lewis | adam.lewis@athens.edu | Athens State University|
+| Southwestern | Megan Thomas | mthomas@cs.csustan.edu | California State University at Stanislaus |
+| Southcentral | Bingyang Wei | b.wei@tcu.edu | Texas Christian University |
+| Southcentral | Mustafa Al-Lail | mustafa.allail@tamiu.edu | Texas A&M International University |
+| Central Plains | Joseph Kendall-Morwick | joseph.kendall-morwick@washburn.edu |  Washburn University |
+| Northeastern | Jeremiah W. Johnson | Jeremiah.Johnson@unh.edu | University of New Hampshire |
 
 A regional editor serves as a liaison between the regional conference committee
 and the journal editor. Whoever works in this capacity are responsible for
