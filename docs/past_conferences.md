@@ -17,7 +17,6 @@ group: navigation
 | Central Plains | Apr. 21-22 2023 | 38.6 [[digital](https://www.ccsc.org/publications/journals/CP2023.pdf)] |
 | South Central | Mar. 31 2023 | 38.7 [[digital](https://www.ccsc.org/publications/journals/SC2023.pdf)] |
 | Northeastern | Apr. 14-15 2023 | 38.8 [[digital](https://www.ccsc.org/publications/journals/NE2023.pdf)] |
-| Midsouth | TBD | 38.9 |
 | Southwestern | Apr. 1 2023 | 38.10 [[digital](https://www.ccsc.org/publications/journals/SW2023.pdf)] |
 
 ## 2021 - 2022
@@ -32,7 +31,6 @@ group: navigation
 | Central Plains | Apr. 1-2 2022 | 37.6 [[digital](http://www.ccsc.org/publications/journals/CP2022.pdf)] |
 | South Central | Apr. 8 2022| 37.7 [[digital](http://www.ccsc.org/publications/journals/SC2022.pdf)] |
 | Northeastern | Apr. 1-2 2022 | 37.8 [[digital](http://www.ccsc.org/publications/journals/NE2022.pdf)] |
-| Midsouth | | 37.9 |
 | Southwestern | Mar. 25-26, 2022 | 37.10 [[digital](http://www.ccsc.org/publications/journals/SW2022.pdf)] |
 
 ## 2020 - 2021
@@ -47,7 +45,6 @@ group: navigation
 | Central Plains | Apr. 9-10 2021 | 36.6 [[digital](http://www.ccsc.org/publications/journals/CP2021.pdf)] [[print](https://www.amazon.com/dp/B0948LNWYR)]|
 | South Central | Apr. 9 2021 | 36.7 [[digital](http://www.ccsc.org/publications/journals/SC2021.pdf)] [[print](https://www.amazon.com/dp/B094ZN6FJH)]|
 | Northeastern | Apr. 16-17 2021 | 36.8 [[digital](http://www.ccsc.org/publications/journals/NE2021.pdf)] [[print](https://www.amazon.com/dp/B095TCB4RT)]|
-| Midsouth | canceled | 36.9 |
 | Southwestern | Mar. 26-27 2021 | 36.10 [[digital](http://www.ccsc.org/publications/journals/SW2021.pdf)] [[print](https://www.amazon.com/dp/B096LWMQJ5)]|
 
 ## 2019 - 2020
