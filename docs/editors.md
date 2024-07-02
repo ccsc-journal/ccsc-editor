@@ -10,7 +10,7 @@ discussions. You can also read past discussions.
 Note that we have switched to use __Latex__ for journal publication.
 The instructions regarding to final manuscript formatting have changed.
 
-# Regional Editors Roster
+# Regional Editors
 
 | Region | Editor | Email | School Affiliation |
 |:-------|:-------|:-------| :-------|
