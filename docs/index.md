@@ -68,4 +68,3 @@ The journals are distributed in following three channels:
 - CCSC members receive all digital journals in PDF format.
 - Individual papers and abstracts are available for download from
 [ACM digital library](https://dl.acm.org/citation.cfm?id=J420&picked=prox).
-- Print journals can be purchased on Amazon ([sample](https://www.amazon.com/dp/1727534379)).
