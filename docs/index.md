@@ -20,14 +20,14 @@ Sciences in Colleges" according to the following schedule.
 | Conference | Date | Journal Issue |
 |:-------------|:------------------|:------|
 | Northwestern | Oct. 11-12 2024 | 40.1 |
-| Rocky Mountain | Oct. 18-19 2024 | 44.2 |
-| Eastern | Oct. 18-19 2024 | 44.3 |
-| Midwestern | Sept. 20-21 2024 | 44.4 |
-| Southeastern | Nov. 1-2 2024 | 44.5 |
-| Central Plains | TBD | 44.6 |
-| South Central | TBD | 44.7 |
-| Northeastern | TBD | 44.8 |
-| Southwestern | TBD | 44.9 |
+| Rocky Mountain | Oct. 18-19 2024 | 40.2 |
+| Eastern | Oct. 18-19 2024 | 40.3 |
+| Midwestern | Sept. 20-21 2024 | 40.4 |
+| Southeastern | Nov. 1-2 2024 | 40.5 |
+| Central Plains | TBD | 40.6 |
+| South Central | TBD | 40.7 |
+| Northeastern | TBD | 40.8 |
+| Southwestern | TBD | 40.9 |
 
 ## 2023 - 2024
 
