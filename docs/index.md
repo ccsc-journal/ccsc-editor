@@ -54,6 +54,9 @@ appear, and notice is given that copying is by permission of the Consortium for
 Computing Sciences in Colleges. To copy otherwise, or to republish, requires a
 fee and/or specific permission.
 
+# CCSC Review Process
+All submissions to the CCSC journal for consideration are single- or double-anonymous peer reviewed. Papers are always double-anonymous peer reviewed. CCSC staff follow the peer review policies of the ACM which can be found at: https://www.acm.org/publications/policies/peer-review
+
 # Journal Distribution
 
 The journals are distributed in following three channels:
