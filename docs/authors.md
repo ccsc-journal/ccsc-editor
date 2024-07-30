@@ -62,8 +62,8 @@ co-authors with their approval.
 - save changes and submit the saved pdf along with your final manuscript.
 
 # CCSC Conflict of Interest
-As best practice, CCSC holds its authors and editors to the ACM Conflict of Interest policies. These polices can be found at: https://www.acm.org/publications/policies/conflict-of-interest
+As best practice, CCSC holds its authors and editors to the ACM Conflict of Interest policies. These polices can be found at: [https://www.acm.org/publications/policies/conflict-of-interest](https://www.acm.org/publications/policies/conflict-of-interest)
 
 # CCSC Policy on Plagiarism, Misrepresentation, and Falsification
 As best practice, CCSC holds its authors to the ACM policies on plagiarism, misrepresentation, and falsification. When creating and submitting papers to a CCSC journal, authors should follow these policies which can be found at:
-https://www.acm.org/publications/policies/plagiarism-overview
+[https://www.acm.org/publications/policies/plagiarism-overview](https://www.acm.org/publications/policies/plagiarism-overview)

@@ -110,4 +110,4 @@ editor a zip file with the following:
 - copyright release form
 
 # CCSC Conflict of Interest
-As best practice, CCSC holds its authors and editors to the ACM Conflict of Interest policies. These polices can be found at: https://www.acm.org/publications/policies/conflict-of-interest
+As best practice, CCSC holds its authors and editors to the ACM Conflict of Interest policies. These polices can be found at: [https://www.acm.org/publications/policies/conflict-of-interest](https://www.acm.org/publications/policies/conflict-of-interest)
