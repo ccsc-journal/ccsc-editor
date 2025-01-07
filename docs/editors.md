@@ -22,7 +22,7 @@ The instructions regarding to final manuscript formatting have changed.
 | Southwestern | Megan Thomas | mthomas@cs.csustan.edu | California State University at Stanislaus |
 | Southcentral | Bingyang Wei | b.wei@tcu.edu | Texas Christian University |
 | Southcentral | Mustafa Al-Lail | mustafa.allail@tamiu.edu | Texas A&M International University |
-| Central Plains | Joseph Kendall-Morwick | joseph.kendall-morwick@washburn.edu |  Washburn University |
+| Central Plains | Joan Gladbach | gladbachj@umkc.edu |  Univeristy of Missouri-Kansas City |
 | Northeastern | Jeremiah W. Johnson | Jeremiah.Johnson@unh.edu | University of New Hampshire |
 
 A regional editor serves as a liaison between the regional conference committee
