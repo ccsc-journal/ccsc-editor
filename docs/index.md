@@ -24,10 +24,11 @@ Sciences in Colleges" according to the following schedule.
 | Eastern | Oct. 18-19 2024 | 40.3 |
 | Midwestern | Sept. 20-21 2024 | 40.4 |
 | Southeastern | Nov. 1-2 2024 | 40.5 |
-| Central Plains | TBD | 40.6 |
-| South Central | TBD | 40.7 |
-| Northeastern | TBD | 40.8 |
-| Southwestern | TBD | 40.9 |
+| Central Plains | April 4th-April 5th 2025 | 40.6 |
+| South Central | April 4th 2025 | 40.7 |
+| Northeastern | April 4th-5th April 2025 | 40.8 |
+| Southwestern | March 28th-March 29th 2025 | 40.9 |
+| Mid South | April 11th-12th 2025 | 40.10 |
 
 ## 2023 - 2024
 
