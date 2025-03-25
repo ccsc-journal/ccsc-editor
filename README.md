@@ -44,7 +44,7 @@ Here are a list of Latex references:
 2. Open the source files with your software and compile them as usual.
 
 # Use MS Word
-Word docs are acceptable if you do not want to use Latex. Please format your work using the PDF samples as examples ([paper](https://github.com/lubaochuan/ccsc-editor/blob/master/paper_template/sample.pdf), [abstract](https://github.com/lubaochuan/ccsc-editor/blob/master/other_template/sample.pdf)). Exact formatting is unnecessary because Word docs will be reformatted into Latex.
+Word docs are acceptable if you do not want to use Latex. Please format your work using the PDF samples as examples ([paper](https://github.com/lubaochuan/ccsc-editor/blob/master/paper_template/sample.pdf), [abstract](https://github.com/lubaochuan/ccsc-editor/blob/master/other_template/sample.pdf)). 
 
 # Contribute to this Project
 Your are welcome to fix errors or suggest additions by creating pull requests.
