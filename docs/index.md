@@ -15,6 +15,21 @@ Sciences in Colleges" according to the following schedule.
 
 # Publication Schedule
 
+## 2025 - 2026
+
+| Conference | Date | Journal Issue |
+|:-------------|:------------------|:------|
+| Northwestern | Oct. 10-11 2025 | 41.1 |
+| Rocky Mountain | Oct. 17-18 2025 | 41.2 |
+| Eastern | Oct. 24-25 2025 | 41.3 |
+| Midwestern | Sept. 19-20 2025 | 41.4 |
+| Southeastern | Nov. 7-8 2025 | 41.5 |
+| Central Plains | April ??-April ?? 2026 | 41.6 |
+| South Central | April ?? 2026 | 40.7 |
+| Northeastern | April ??th-??th April 2026 | 40.8 |
+| Southwestern | March ??th-March ??th 2026 | 40.9 |
+| Mid South | April ??th-??th 2026 | 40.10 |
+
 ## 2024 - 2025
 
 | Conference | Date | Journal Issue |
