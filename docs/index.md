@@ -25,10 +25,10 @@ Sciences in Colleges" according to the following schedule.
 | Midwestern | Sept. 19-20 2025 | 41.4 |
 | Southeastern | Nov. 7-8 2025 | 41.5 |
 | Central Plains | April ??-April ?? 2026 | 41.6 |
-| South Central | April ?? 2026 | 40.7 |
-| Northeastern | April ??th-??th April 2026 | 40.8 |
-| Southwestern | March ??th-March ??th 2026 | 40.9 |
-| Mid South | April ??th-??th 2026 | 40.10 |
+| South Central | April ?? 2026 | 41.7 |
+| Northeastern | April ??th-??th April 2026 | 41.8 |
+| Southwestern | March ??th-March ??th 2026 | 41.9 |
+| Mid South | April ??th-??th 2026 | 41.10 |
 
 ## 2024 - 2025
 
