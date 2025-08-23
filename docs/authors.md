@@ -14,12 +14,12 @@ need to submit their final manuscripts for publication.
 Once your work is accepted by the conference committee, you must prepare your
 work for publication by following this guideline. We __strongly__ recommend
 that you use our
-[Latex templates](https://ccsc-journal.github.io/ccsc-editor/), which formats
+[Latex templates](https://github.com/ccsc-journal/ccsc-editor/tree/master/paper_template), which formats
 your work using the specific style for our journal. It also makes our journal
 editor's job easier because the final journal editing and compilation is done
 in Latex.
 
-The [Latex templates](https://ccsc-journal.github.io/ccsc-editor/) repository
+The [Latex templates](https://github.com/ccsc-journal/ccsc-editor/tree/master/paper_template) repository
 contains further instructions in README files. You can download the repository
 and choose the template you need. Each template has a sample pdf file showing
 what the formatted work should look like.
