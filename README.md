@@ -13,7 +13,8 @@ There are three ways to format your work.
 
 # Use Overleaf 2.0
 1. Go to https://v2.overleaf.com/ and setup an account for free.
-2. Go to [[https://github.com/lubaochuan/ccsc-editor/blob/master/paper_template.zip](https://github.com/ccsc-journal/ccsc-editor/blob/master/paper_template.zip)](https://github.com/lubaochuan/ccsc-editor/blob/master/paper_template.zip) and click on "download" to get `paper_template.zip` for papers, or go to [https://github.com/lubaochuan/ccsc-editor/blob/master/other_template.zip](https://github.com/lubaochuan/ccsc-editor/blob/master/other_template.zip) and click on "download" to get `other_template.zip` for other publication types (various abstracts).
+2a. Go to https://github.com/ccsc-journal/ccsc-editor/blob/master/paper_template.zip and click download to get `paper_template.zip` for papers.
+2b. Go to https://github.com/ccsc-journal/ccsc-editor/blob/master/other_template.zip and click download to get `other_template.zip` for other publication types such as abstracts. 
 3. Select "New Project" on Overleaf, choose to "Upload Project" and upload the zip file you just downloaded.
 4. Click on the "Menu" on the upper left of your Overleaf project, and be sure that "TeX Live version" is set to "2020".
 5. After the zip file is uploaded and expanded, you can edit the source files and click on "Recompile" to see the PDF version of your work in the browser.
