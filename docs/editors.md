@@ -42,7 +42,7 @@ up to date on [CCSC website ](http://www.ccsc.org/regions/) or conference websit
 * invited talk abstracts (e.g. keynote, banquet speech, ...) with speaker bio
   [example](samples/speech_abstract.pdf))
 
-The Latex templates for papers and other abstracts can be found in [this repository](https://github.com/lubaochuan/ccsc-editor).
+The Latex templates for papers and other abstracts can be found in [this repository](https://github.com/ccsc-journal/ccsc-editor/tree/master/paper_template).
 
 # Important Dates
 There are two important dates for journal publication:
@@ -77,8 +77,7 @@ For each publishable item the regional editor need to collect the following:
 
 We do accept final manuscript submissions in Word doc. In this case,
 the regional editor either needs to reformat the submissions in Latex using
-the [formatting instructions](https://github.com/lubaochuan/ccsc-editor) or
-forward the submission to the journal editor AS IS.
+the [formatting instructions](https://github.com/ccsc-journal/ccsc-editor/tree/master/paper_template) 
 
 The regional editor need to check the copyright release forms are filled out
 correctly:
