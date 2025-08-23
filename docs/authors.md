@@ -14,12 +14,12 @@ need to submit their final manuscripts for publication.
 Once your work is accepted by the conference committee, you must prepare your
 work for publication by following this guideline. We __strongly__ recommend
 that you use our
-[Latex templates](https://github.com/lubaochuan/ccsc-editor), which formats
+[Latex templates](https://ccsc-journal.github.io/ccsc-editor/), which formats
 your work using the specific style for our journal. It also makes our journal
 editor's job easier because the final journal editing and compilation is done
 in Latex.
 
-The [Latex templates](https://github.com/lubaochuan/ccsc-editor) repository
+The [Latex templates](https://ccsc-journal.github.io/ccsc-editor/) repository
 contains further instructions in README files. You can download the repository
 and choose the template you need. Each template has a sample pdf file showing
 what the formatted work should look like.
@@ -55,7 +55,7 @@ You'll need to submit a copyright release form in order for us to publish your w
 dropdown menus.
 - sign the form digitally as shown in [this video](https://youtu.be/ZZLM9aDT_ak).
 - select the journal issue number according to the
-[publication schedule](https://lubaochuan.github.io/ccsc-editor).
+[publication schedule](https://ccsc-journal.github.io/ccsc-editor/).
 - please note that **both** Part I **and** Part IV need author signatures!
 - the form can be signed by all authors or by the principal author for all
 co-authors with their approval.
