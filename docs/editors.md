@@ -14,7 +14,7 @@ The instructions regarding to final manuscript formatting have changed.
 
 | Region | Editor | Email | School Affiliation |
 |:-------|:-------|:-------| :-------|
-| Midwestern | Saleh Alnaeli | alnaelis@uwstout.edu | University of Wisconsin-Stout |
+| Midwestern | William Turner | turnerw@wabash.edu | Wabash College |
 | Northwestern | Sharon Tuttle | st10@humboldt.edu | Humboldt State University |
 | Rock Mountain | Pam Smallwood| psmallwo@regis.edu | Regis University |
 | Eastern | George Dimitoglou | dimitoglou@hood.edu | Hood College |
