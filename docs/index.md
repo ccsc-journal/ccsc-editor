@@ -24,11 +24,11 @@ Sciences in Colleges" according to the following schedule.
 | Eastern | Oct. 24-25 2025 | 41.3 |
 | Midwestern | Sept. 19-20 2025 | 41.4 |
 | Southeastern | Nov. 7-8 2025 | 41.5 |
-| Central Plains | April ??-April ?? 2026 | 41.6 |
-| South Central | April ?? 2026 | 41.7 |
-| Northeastern | April ??th-??th April 2026 | 41.8 |
-| Southwestern | March ??th-March ??th 2026 | 41.9 |
-| Mid South | April ??th-??th 2026 | 41.10 |
+| Central Plains | April 10-April 11 2026 | 41.6 |
+| South Central | April 24 2026 | 41.7 |
+| Northeastern | April 10th-11th April 2026 | 41.8 |
+| Southwestern | March 27th-March 28th 2026 | 41.9 |
+| Mid South | April 10th-11th 2026 | 41.10 |
 
 ## 2024 - 2025
 
@@ -59,7 +59,7 @@ Sciences in Colleges" according to the following schedule.
 | Northeastern | Apr. 12-13 2024 | 39.8 [[digital](https://www.ccsc.org/publications/journals/NE2024.pdf)] |
 | Southwestern | Mar. 29-30 2024 | 39.10 [[digital](https://www.ccsc.org/publications/journals/SW2024.pdf)] |
 
-[Past Journal Issues](https://lubaochuan.github.io/ccsc-editor/past_conferences.html)
+
 
 # Copyright Notice
 All CCSC journal issues are copyrighted by the Consortium for Computing Sciences
