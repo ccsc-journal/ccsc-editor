@@ -2,8 +2,8 @@
 layout: default
 ---
 # Welcome!
-This site contains information about final manuscript formatting (see [authors page](https://lubaochuan.github.io/ccsc-editor/authors.html))
-and the journal publication process (see [regional editors page](https://lubaochuan.github.io/ccsc-editor/editors.html)).
+This site contains information about final manuscript formatting (see [authors page](https://ccsc-journal.github.io/ccsc-editor/authors.html))
+and the journal publication process (see [regional editors page](https://ccsc-journal.github.io/ccsc-editor/editors.html)).
 
 The Consortium for Computing Sciences in Colleges (CCSC) holds ten regional
 conferences throughout the U.S. Please check out CCSC's
