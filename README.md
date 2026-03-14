@@ -41,7 +41,7 @@ Here are a list of Latex references:
  - wikibook on Latex https://en.wikibooks.org/wiki/LaTeX
 
 # Use your own Latex
-1. Go to https://github.com/lubaochuan/ccsc-editor and download a zip file or clone the repository.
+1. Go to https://github.com/ccsc-journal/ccsc-editor and download a zip file or clone the repository.
 2. Open the source files with your software and compile them as usual.
 
 # Use MS Word
