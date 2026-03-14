@@ -26,8 +26,8 @@ The instructions regarding to final manuscript formatting have changed.
 | Northeastern | Jeremiah W. Johnson | Jeremiah.Johnson@unh.edu | University of New Hampshire |
 
 A regional editor serves as a liaison between the regional conference committee
-and the journal editor. Whoever works in this capacity are responsible for
-passing the following documents to the journal editor before the deadline.
+and the national editor. Whoever works in this capacity are responsible for
+passing the following documents to the national editor before the deadline.
 
 # Publishable Items
 * welcome statement from conference chair ([example](samples/welcome.pdf), [latex source](samples/welcome.tex))
@@ -45,7 +45,7 @@ up to date on [CCSC website ](http://www.ccsc.org/regions/) or conference websit
 The Latex templates for papers and other abstracts can be found in [this repository](https://github.com/ccsc-journal/ccsc-editor/tree/master/paper_template).
 
 # Important Dates
-There are two important dates for journal publication:
+There are two important dates for publication:
 - Please touch base with the national editor on when is the deadline for a regional editor to send all
 publishable items to the national editor. 
 - All regional editors must work with their regions in setting the deadline for authors to send their finished manuscript
@@ -88,9 +88,9 @@ Note that When you convert a paper from Word doc to Latex, you can use
 to create the entries from scratch (some editing may be necessary if the entry
 seems incomplete).
 
-# Work with the Journal Editor
+# Work with the National Editor
 A regional editor should send publishable items in their final
-format to the journal editor as soon as they become available. The deadline
+format to the national editor as soon as they become available. The deadline
 is to submit this is (see above, i.e., you must work with the national editor on this). 
 If an item is received after the agreed upon deadline (see above), the item
 is not guaranteed to appear in the journal.
