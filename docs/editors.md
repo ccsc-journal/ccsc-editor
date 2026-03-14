@@ -46,13 +46,12 @@ The Latex templates for papers and other abstracts can be found in [this reposit
 
 # Important Dates
 There are two important dates for journal publication:
-- __EDITOR_DUE__ is the deadline for a regional editor to send all
-publishable items to the journal editor. Please confirm this deadline date with
-the journal editor.
-- __AUTHOR_DUE__ is the deadline for authors to send their finished manuscript
+- Please touch base with the national editor on when is the deadline for a regional editor to send all
+publishable items to the national editor. 
+- All regional editors must work with their regions in setting the deadline for authors to send their finished manuscript
 and copyright release form to the regional editor. Usually, a regional editor
 set this date with input from the conference committee. It is recommended that
-you set this date at least __one week__ before __EDITOR_DUE__ so that you have time
+you set this date well in advance so that you have time
 interact with the authors to address issues in final manuscript submissions.
 
 # Work with Authors
@@ -62,16 +61,10 @@ conference the following should happen:
 * All authors should be notified with the instructions on final manuscript
 formatting, the link to the current copyright release form, and the method to
 submit the final manuscript to the regional editor.
-* The regional editor should share a list of accepted items with the journal
-editor to keep track of final submissions (here is
-[an example](https://docs.google.com/spreadsheets/d/1hxodui1yzcsJGt2iDZrRXYK9hmTV9hoQ3N2pl3OQFvA/edit?usp=sharing)).
-
-By __AUTHOR_DUE__ date the regional editor must received all the publishable
-items.
 
 ## Check for errors
 For each publishable item the regional editor need to collect the following:
-- final manuscript in Latex or in Word and the PDF showing the desired look
+- final manuscript in Latex and the PDF showing the desired look
 - included figures/images in separate files
 - copyright release form
 
@@ -98,12 +91,13 @@ seems incomplete).
 # Work with the Journal Editor
 A regional editor should send publishable items in their final
 format to the journal editor as soon as they become available. The deadline
-is __EDITOR_DUE__. If an item is received after __EDITOR_DUE__ date, the item
+is to submit this is (see above, i.e., you must work with the national editor on this). 
+If an item is received after the agreed upon deadline (see above), the item
 is not guaranteed to appear in the journal.
 
 For each publishable item the regional editor need to __email__ the journal
 editor a zip file with the following:
-- Latex source files for final manuscript or the Word doc
+- Latex source files for final manuscript
 - a PDF showing the desired look of the publishable item
 - included figures/images in separate files
 - copyright release form
