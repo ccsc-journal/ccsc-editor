@@ -69,8 +69,9 @@ For each publishable item the regional editor need to collect the following:
 - copyright release form
 
 We do accept final manuscript submissions in Word doc. In this case,
-the regional editor either needs to reformat the submissions in Latex using
+the regional editor needs to reformat the submissions in Latex using
 the [formatting instructions](https://github.com/ccsc-journal/ccsc-editor/tree/master/paper_template) 
+We strongly recommend the regional editor to work with the authors directly on converting Word into LaTeX. 
 
 The regional editor need to check the copyright release forms are filled out
 correctly:
