@@ -28,7 +28,7 @@ If you do not want to use Latex we do accept final manuscripts in Word doc forma
 Please use this [Word doc template](samples/sample-converted.docx),
 which is converted from our Latex template. It has the correct margin size and
 font size, which should help you gauge the length of your paper (number of pages).
-The national editor requires LaTeX submissions, but regional editors may accept other formats, provided they are converted to LaTeX before submission to national.
+The national editor requires LaTeX submissions, but regional editors may accept other formats, provided they are converted to LaTeX before submission to national editor.
 You will need to work with your regional editor in converting your non-LaTeX manuscript into LaTeX. 
 Here is a list of sample publishable items:
 - [speech abstract](samples/speech_abstract.pdf)
