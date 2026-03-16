@@ -4,8 +4,6 @@ title: "Editors"
 group: navigation
 ---
 # For Regional Editors
-If you are a regional editor, please join our [Google group](https://groups.google.com/forum/#!forum/ccsc-editors) for editing related
-discussions. You can also read past discussions.
 
 Note that we have switched to use __Latex__ for journal publication.
 The instructions regarding to final manuscript formatting have changed.
@@ -39,6 +37,8 @@ up to date on [CCSC website ](http://www.ccsc.org/regions/) or conference websit
 * abstracts ([workshops](samples/workshop_abstract.pdf),
   [tutorials](samples/tutorial_abstract.pdf),
   [posters](samples/poster_abstract.pdf), [panels](samples/panel.pdf), [lightning talks](samples/lightning_talk.pdf), ...)
+* work in progress
+  [example](other_template/workinprogress.tex))
 * invited talk abstracts (e.g. keynote, banquet speech, ...) with speaker bio
   [example](samples/speech_abstract.pdf))
 
