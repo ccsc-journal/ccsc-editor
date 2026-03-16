@@ -38,7 +38,7 @@ up to date on [CCSC website ](http://www.ccsc.org/regions/) or conference websit
   [tutorials](samples/tutorial_abstract.pdf),
   [posters](samples/poster_abstract.pdf), [panels](samples/panel.pdf), [lightning talks](samples/lightning_talk.pdf), ...)
 * work in progress
-  [example]((../other_template/workinprogress.tex))
+  [example]((samples/workinprogress.tex))
 * invited talk abstracts (e.g. keynote, banquet speech, ...) with speaker bio
   [example](samples/speech_abstract.pdf))
 
