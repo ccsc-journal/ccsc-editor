@@ -5,6 +5,37 @@ group: navigation
 ---
 # Past Conferences
 
+## 2024 - 2025
+
+| Conference | Date | Journal Issue |
+|:-------------|:------------------|:------|
+| Northwestern | October 2024 | 40.1 [[digital](https://www.ccsc.org/publications/journals/CCSCNW2024Final.pdf)] |
+| Rocky Mountain | October 2024 | 40.2 [[digital](https://www.ccsc.org/publications/journals/CCSCRM2024Final.pdf)] |
+| Eastern | October 2024 | 40.3 [[digital](https://www.ccsc.org/publications/journals/CCSCE2024Final.pdf)] |
+| Midwestern | September 2024 | 40.4 [[digital](https://www.ccsc.org/publications/journals/CCSCMW2024Final.pdf)] |
+| Southeastern | November 2024 | 40.5 [[digital](https://www.ccsc.org/publications/journals/CCSCSE2024Final.pdf)] |
+| Central Plains | April 2025 | 40.6 [[digital](https://www.ccsc.org/publications/journals/CP2025.pdf)] |
+| South Central | April 2025 | 40.7 [[digital](https://www.ccsc.org/publications/journals/CCSCSC2025Final.pdf)] |
+| Northeastern | April 2025 | 40.8 [[digital](https://www.ccsc.org/publications/journals/CCSCNE2025Final.pdf)] |
+| Southwestern | April 2025 | 40.9 [[digital](https://www.ccsc.org/publications/journals/SW2025.pdf)] |
+| Mid-South | April 2025 | 40.10 [[digital](https://www.ccsc.org/publications/journals/CCSCMS2025Final.pdf)] |
+
+## 2023 - 2024
+
+| Conference | Date | Journal Issue |
+|:-------------|:------------------|:------|
+| Northwestern | October 2023 | 39.1 [[digital](https://www.ccsc.org/publications/journals/NW2023.pdf)] |
+| Rocky Mountain | October 2023 | 39.2 [[digital](https://www.ccsc.org/publications/journals/RM2023.pdf)] |
+| Eastern | October 2023 | 39.3 [[digital](https://www.ccsc.org/publications/journals/EA2023.pdf)] |
+| Midwestern | October 2023 | 39.4 [[digital](https://www.ccsc.org/publications/journals/MW2023.pdf)] |
+| Southeastern | November 2023 | 39.5 [[digital](https://www.ccsc.org/publications/journals/SE2023.pdf)] |
+| Central Plains | April 2024 | 39.6 [[digital](https://www.ccsc.org/publications/journals/CP2024.pdf)] |
+| South Central | April 2024 | 39.7 [[digital](https://www.ccsc.org/publications/journals/SC2024.pdf)] |
+| Northeastern | April 2024 | 39.8 [[digital](https://www.ccsc.org/publications/journals/NE2024.pdf)] |
+| Mid-South | Canceled | 39.9 |
+| Southwestern | April 2024 | 39.10 [[digital](https://www.ccsc.org/publications/journals/SW2024.pdf)] |
+
+
 ## 2022 - 2023
 
 | Conference | Date | Journal Issue |
