@@ -5,6 +5,22 @@ group: navigation
 ---
 # Past Conferences
 
+## 2025 - 2026
+
+| Conference | Date | Journal Issue |
+|:-------------|:------------------|:------|
+| Northwestern | Oct. 10-11 2025 | 41.1 [[digital](https://www.ccsc.org/publications/journals/CCSCNW2025Final.pdf)] |
+| Rocky Mountain | Oct. 17-18 2025 | 41.2 [[digital](https://www.ccsc.org/publications/journals/CCSCRM2025Final.pdf)] |
+| Eastern | Oct. 24-25 2025 | 41.3 [[digital](https://www.ccsc.org/publications/journals/CCSCEastern2025Final.pdf)] |
+| Midwestern | Sept. 19-20 2025 | 41.4 [[digital](https://www.ccsc.org/publications/journals/CCSCMW2025Final.pdf)] |
+| Southeastern | Nov. 7-8 2025 | 41.5 [[digital](https://www.ccsc.org/publications/journals/CCSCSE2025Final.pdf)] |
+| Central Plains | TBA | 41.6 TBA |
+| South Central | TBA | 41.7 TBA |
+| Northeastern | TBA | 41.8 TBA |
+| Southwestern | TBA | 41.9 TBA |
+| Mid-South | TBA | 41.10 TBA |
+
+
 ## 2024 - 2025
 
 | Conference | Date | Journal Issue |
