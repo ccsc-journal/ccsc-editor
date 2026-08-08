@@ -15,6 +15,22 @@ Sciences in Colleges" according to the following schedule.
 
 # Publication Schedule
 
+## 2026 - 2027
+
+| Conference | Date | Journal Issue |
+|:-------------|:------------------|:------|
+| Northwestern | ?? | 42.1 |
+| Rocky Mountain | ?? | 42.2 |
+| Eastern | ?? | 42.3 |
+| Midwestern | ?? | 42.4 |
+| Southeastern | ?? | 42.5 |
+| Central Plains | ?? | 42.6 |
+| South Central | ?? | 42.7 |
+| Northeastern | ?? | 42.8 |
+| Southwestern | ?? | 42.9 |
+| Mid South | ?? | 42.10 |
+
+
 ## 2025 - 2026
 
 | Conference | Date | Journal Issue |
